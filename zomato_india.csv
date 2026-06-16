@@ -1,0 +1,1001 @@
+restaurant_name,city,location,restaurant_type,cuisine,rating,votes,cost_for_two,online_order,book_table
+The Place 1,Mumbai,Colaba,Bakery,Desserts,3.8,2598,358,No,No
+Green Garden 2,Kolkata,Howrah,Casual Dining,Beverages,4.1,3997,723,Yes,No
+Royal Hub 3,Chennai,T Nagar,Food Court,Mughlai,3.9,4618,317,Yes,Yes
+Restaurant Point 4,Delhi,Lajpat Nagar,Quick Bites,Chinese,4.0,918,275,Yes,No
+Restaurant Bites 5,Bangalore,BTM Layout,Cafe,Mughlai,3.7,2186,509,No,No
+Green Corner 6,Bangalore,HSR Layout,Casual Dining,Cafe,,3202,878,Yes,No
+Restaurant Hub 7,Bangalore,Whitefield,Quick Bites,North Indian,2.9,1467,155,No,Yes
+Golden Point 8,Pune,Viman Nagar,Bakery,Biryani,3.4,2383,207,Yes,Yes
+The Corner 9,Hyderabad,Secunderabad,Food Court,Cafe,4.9,3459,445,No,No
+Spice Corner 10,Hyderabad,Gachibowli,Quick Bites,Pizza,3.5,3558,240,Yes,Yes
+Golden Bites 11,Bangalore,Koramangala,Delivery,Pizza,2.7,1312,254,No,Yes
+Restaurant House 12,Ahmedabad,Vastrapur,Food Court,Mughlai,4.1,4999,411,Yes,No
+Cafe Grill 13,Pune,Hinjewadi,Cafe,Continental,4.1,1194,472,No,No
+Green Hub 14,Bangalore,Indiranagar,Bakery,South Indian,,692,331,Yes,No
+Royal Place 15,Bangalore,Indiranagar,Sweet Shop,Continental,3.9,4666,290,Yes,Yes
+Cafe Bites 16,Bangalore,Whitefield,Dhaba,Desserts,4.1,1212,198,Yes,Yes
+Urban Point 17,Mumbai,Bandra,Dhaba,Street Food,,1899,180,Yes,Yes
+Green Garden 18,Delhi,Lajpat Nagar,Dhaba,Italian,3.3,4927,332,Yes,No
+Silver Point 19,Delhi,Karol Bagh,Casual Dining,Continental,3.2,1816,1169,No,No
+The Hub 20,Mumbai,Colaba,Cafe,Seafood,3.2,3188,448,No,No
+The Grill 21,Hyderabad,Jubilee Hills,Bakery,Italian,3.6,3802,176,Yes,No
+Golden Lounge 22,Bangalore,HSR Layout,Food Court,Italian,4.4,1649,329,No,No
+Golden Hub 23,Mumbai,Bandra,Casual Dining,Biryani,4.0,3973,465,Yes,Yes
+Royal Kitchen 24,Mumbai,Andheri,Cafe,North Indian,3.9,2721,507,Yes,No
+Silver Corner 25,Delhi,Karol Bagh,Sweet Shop,Biryani,2.8,195,141,No,No
+Royal Hub 26,Chennai,T Nagar,Delivery,Italian,3.4,1340,270,No,No
+Urban House 27,Bangalore,Indiranagar,Bakery,Cafe,2.8,4808,121,No,Yes
+Urban Bites 28,Delhi,Dwarka,Dhaba,Pizza,4.3,3111,210,Yes,No
+Royal Garden 29,Delhi,Hauz Khas,Quick Bites,Italian,4.5,383,206,No,No
+Cafe House 30,Bangalore,Indiranagar,Bakery,Biryani,4.1,4487,326,Yes,No
+Green Point 31,Hyderabad,Hitech City,Bar,Beverages,3.2,3834,2267,Yes,Yes
+Green Point 32,Bangalore,Indiranagar,Cafe,Cafe,4.4,620,641,Yes,No
+The Bites 33,Bangalore,Koramangala,Fine Dining,Biryani,3.6,2335,1595,No,No
+Restaurant Hub 34,Kolkata,Ballygunge,Sweet Shop,Continental,,1759,265,No,No
+Hotel Garden 35,Ahmedabad,Navrangpura,Delivery,Chinese,3.2,468,168,No,No
+Urban Point 36,Chennai,T Nagar,Sweet Shop,Mughlai,3.5,971,133,Yes,Yes
+Urban Grill 37,Mumbai,Bandra,Bakery,South Indian,3.7,4272,202,Yes,No
+Royal Lounge 38,Bangalore,Whitefield,Fine Dining,Street Food,3.6,3163,2774,Yes,No
+Silver House 39,Hyderabad,Hitech City,Bar,Biryani,3.0,3629,1836,Yes,No
+The Corner 40,Delhi,Connaught Place,Food Court,Seafood,4.3,4943,446,Yes,No
+Green Bites 41,Bangalore,Indiranagar,Quick Bites,South Indian,3.6,694,280,No,No
+Urban Garden 42,Delhi,Dwarka,Fine Dining,Beverages,,2627,1692,Yes,No
+Spice House 43,Bangalore,BTM Layout,Cafe,Fast Food,,2217,467,Yes,Yes
+Cafe Place 44,Kolkata,New Town,Dhaba,Biryani,3.1,387,112,Yes,No
+Royal Lounge 45,Mumbai,Bandra,Bar,Chinese,2.9,2261,1943,Yes,No
+Cafe Place 46,Hyderabad,Gachibowli,Quick Bites,South Indian,4.3,3815,156,Yes,No
+Urban Garden 47,Mumbai,Bandra,Delivery,Street Food,4.6,3508,139,No,No
+Golden Place 48,Delhi,Dwarka,Dhaba,Italian,,1417,217,Yes,No
+Spice Hub 49,Delhi,Lajpat Nagar,Bakery,Biryani,3.7,1588,227,No,Yes
+Golden Kitchen 50,Bangalore,Indiranagar,Fine Dining,North Indian,3.1,376,1372,Yes,No
+Spice Hub 51,Ahmedabad,CG Road,Quick Bites,Beverages,,615,134,Yes,Yes
+Urban Garden 52,Chennai,Nungambakkam,Casual Dining,Mughlai,3.5,120,658,Yes,No
+Royal Corner 53,Kolkata,Ballygunge,Food Court,Chinese,3.6,451,154,No,No
+The House 54,Pune,Hinjewadi,Food Court,Desserts,3.9,1396,367,No,No
+The Garden 55,Delhi,Hauz Khas,Bar,Desserts,3.2,3329,1322,Yes,No
+Restaurant Kitchen 56,Kolkata,Park Street,Delivery,Seafood,3.5,1345,481,Yes,No
+Golden House 57,Bangalore,Whitefield,Bar,South Indian,2.8,4515,1638,Yes,Yes
+Royal Corner 58,Bangalore,Indiranagar,Casual Dining,Chinese,3.5,2944,516,Yes,No
+Green Hub 59,Bangalore,BTM Layout,Cafe,Cafe,3.7,3704,383,No,No
+Golden Point 60,Mumbai,Powai,Delivery,Street Food,3.8,1078,493,Yes,No
+Silver Grill 61,Mumbai,Colaba,Sweet Shop,Mughlai,3.8,4818,155,Yes,Yes
+Cafe Lounge 62,Mumbai,Powai,Cafe,Italian,4.2,3574,315,Yes,No
+The Grill 63,Pune,Hinjewadi,Delivery,Biryani,2.9,3155,261,Yes,No
+The Grill 64,Mumbai,Colaba,Delivery,Biryani,3.0,1610,166,Yes,No
+Restaurant Corner 65,Mumbai,Powai,Casual Dining,Desserts,4.0,4662,1111,Yes,No
+Spice Lounge 66,Delhi,Connaught Place,Bakery,Biryani,2.7,2299,130,No,No
+The Point 67,Bangalore,BTM Layout,Casual Dining,Mughlai,3.8,3667,986,No,No
+Restaurant Place 68,Chennai,Adyar,Delivery,North Indian,,4487,336,Yes,No
+Spice Bites 69,Bangalore,Indiranagar,Quick Bites,Fast Food,,4802,165,No,No
+The Hub 70,Ahmedabad,SG Highway,Cafe,Seafood,3.8,988,269,Yes,No
+Cafe Garden 71,Chennai,Nungambakkam,Casual Dining,Pizza,3.6,356,846,Yes,No
+The Kitchen 72,Bangalore,Indiranagar,Bakery,Continental,4.3,1729,119,Yes,No
+Golden House 73,Bangalore,BTM Layout,Fine Dining,Seafood,3.2,1956,1640,Yes,No
+Golden Lounge 74,Chennai,Adyar,Bar,South Indian,3.3,1284,1537,Yes,No
+Urban Kitchen 75,Hyderabad,Jubilee Hills,Delivery,North Indian,,1912,533,Yes,Yes
+Royal Point 76,Chennai,Anna Nagar,Sweet Shop,Seafood,3.3,4853,257,Yes,No
+The Hub 77,Chennai,Nungambakkam,Fine Dining,Italian,3.7,1029,1595,No,No
+Hotel Kitchen 78,Bangalore,Indiranagar,Food Court,Desserts,3.9,550,348,Yes,No
+The Garden 79,Mumbai,Juhu,Dhaba,Beverages,4.2,4179,138,Yes,Yes
+Royal Kitchen 80,Bangalore,HSR Layout,Bakery,South Indian,2.8,2386,244,Yes,No
+Hotel Corner 81,Pune,Koregaon Park,Sweet Shop,Biryani,3.6,893,94,Yes,No
+Silver Grill 82,Hyderabad,Hitech City,Dhaba,Chinese,3.1,1110,238,Yes,No
+Hotel Grill 83,Mumbai,Juhu,Bakery,Italian,3.6,2554,190,No,No
+Urban House 84,Bangalore,Indiranagar,Quick Bites,South Indian,4.9,1995,337,Yes,Yes
+Restaurant Grill 85,Mumbai,Powai,Bar,Beverages,3.8,4003,1893,Yes,No
+Silver Hub 86,Mumbai,Colaba,Fine Dining,Street Food,4.1,3780,2389,Yes,No
+Cafe House 87,Chennai,Adyar,Cafe,Biryani,4.7,2817,329,Yes,No
+Green Garden 88,Hyderabad,Hitech City,Bakery,Seafood,4.3,925,313,Yes,Yes
+Urban Corner 89,Pune,Kothrud,Cafe,Seafood,3.5,4650,539,Yes,No
+Cafe House 90,Delhi,Lajpat Nagar,Bar,South Indian,,2066,2424,Yes,Yes
+Silver Place 91,Bangalore,Indiranagar,Delivery,Chinese,3.7,4492,434,Yes,No
+Royal Grill 92,Hyderabad,Jubilee Hills,Food Court,Street Food,3.4,3644,401,Yes,No
+Golden House 93,Chennai,Velachery,Fine Dining,Biryani,2.9,3170,1568,No,No
+Silver Bites 94,Delhi,Lajpat Nagar,Bar,Beverages,3.8,4440,2407,Yes,Yes
+Royal Kitchen 95,Chennai,Adyar,Bar,Fast Food,3.8,2649,848,No,No
+Royal Place 96,Delhi,Dwarka,Quick Bites,Seafood,4.6,4857,151,No,No
+The Point 97,Delhi,Lajpat Nagar,Dhaba,Beverages,,1050,132,Yes,No
+Spice Garden 98,Delhi,Hauz Khas,Food Court,North Indian,3.8,3561,427,Yes,No
+Cafe Bites 99,Bangalore,Koramangala,Fine Dining,Seafood,3.4,2686,2849,Yes,No
+Golden Grill 100,Bangalore,Koramangala,Delivery,Beverages,4.1,3204,338,No,No
+Royal Place 101,Bangalore,Koramangala,Delivery,Cafe,3.6,943,232,Yes,No
+Spice House 102,Hyderabad,Banjara Hills,Casual Dining,Desserts,3.1,4948,1185,No,No
+Silver Bites 103,Mumbai,Juhu,Bar,Continental,3.7,446,1989,No,Yes
+Green Place 104,Delhi,Lajpat Nagar,Bakery,Mughlai,3.9,2555,392,No,No
+Urban Bites 105,Kolkata,Howrah,Quick Bites,Desserts,3.8,4230,342,Yes,No
+Royal Point 106,Mumbai,Juhu,Food Court,Continental,,601,469,Yes,Yes
+Urban Kitchen 107,Mumbai,Bandra,Delivery,Italian,,1510,237,No,No
+Spice Bites 108,Chennai,Velachery,Fine Dining,Beverages,3.3,866,2814,Yes,No
+Royal Corner 109,Mumbai,Colaba,Casual Dining,Continental,4.0,2645,1081,Yes,No
+Urban Grill 110,Bangalore,Indiranagar,Fine Dining,Biryani,3.3,3736,2858,No,No
+Urban Lounge 111,Mumbai,Andheri,Quick Bites,Fast Food,3.8,1556,275,Yes,Yes
+Green Point 112,Bangalore,HSR Layout,Bakery,Cafe,2.5,3241,399,No,No
+Urban Garden 113,Kolkata,Ballygunge,Casual Dining,North Indian,4.9,1741,481,No,Yes
+Cafe Garden 114,Chennai,Anna Nagar,Casual Dining,Beverages,3.6,1454,486,Yes,No
+Golden Bites 115,Hyderabad,Banjara Hills,Dhaba,North Indian,4.3,269,324,No,Yes
+The Lounge 116,Pune,Koregaon Park,Food Court,Chinese,3.5,2664,165,Yes,No
+Royal Grill 117,Chennai,Adyar,Casual Dining,Seafood,3.9,2726,757,Yes,No
+Green Corner 118,Bangalore,HSR Layout,Dhaba,Beverages,4.4,1467,262,Yes,No
+Cafe Corner 119,Pune,Baner,Dhaba,Mughlai,4.3,4257,197,Yes,No
+The Hub 120,Delhi,Connaught Place,Quick Bites,Beverages,3.6,1450,255,Yes,No
+Urban Garden 121,Chennai,Anna Nagar,Cafe,South Indian,3.6,2303,201,Yes,Yes
+Cafe Grill 122,Pune,Hinjewadi,Fine Dining,Fast Food,4.2,2930,1549,Yes,No
+The Place 123,Mumbai,Juhu,Bakery,South Indian,,1637,268,Yes,No
+Spice Hub 124,Bangalore,BTM Layout,Sweet Shop,Beverages,,2379,257,No,Yes
+Royal Lounge 125,Mumbai,Powai,Fine Dining,Cafe,4.7,4995,2598,No,No
+Hotel Lounge 126,Delhi,Hauz Khas,Casual Dining,Continental,3.6,517,491,Yes,No
+Green Bites 127,Chennai,Velachery,Bakery,North Indian,4.2,220,280,Yes,No
+Spice Garden 128,Pune,Koregaon Park,Delivery,Cafe,4.3,3336,330,Yes,No
+Silver Point 129,Bangalore,Koramangala,Cafe,Beverages,3.5,2177,500,Yes,No
+Green Lounge 130,Delhi,Dwarka,Delivery,Continental,3.3,3158,247,No,No
+Golden House 131,Mumbai,Powai,Delivery,North Indian,4.3,1711,379,No,Yes
+Golden Corner 132,Mumbai,Andheri,Food Court,Continental,3.4,2111,338,Yes,Yes
+Royal House 133,Bangalore,Whitefield,Fine Dining,Mughlai,3.3,1572,2537,Yes,No
+Cafe Point 134,Mumbai,Andheri,Sweet Shop,Fast Food,3.4,2213,286,Yes,No
+Royal Grill 135,Kolkata,Ballygunge,Quick Bites,Desserts,3.4,2336,227,Yes,No
+Urban Place 136,Mumbai,Bandra,Sweet Shop,Street Food,4.1,2158,56,Yes,No
+Urban Garden 137,Delhi,Hauz Khas,Delivery,Italian,4.0,1133,525,No,Yes
+Cafe Point 138,Hyderabad,Secunderabad,Casual Dining,Cafe,4.1,3515,958,No,No
+The Kitchen 139,Mumbai,Andheri,Cafe,Seafood,3.9,4328,252,Yes,No
+Royal Lounge 140,Ahmedabad,SG Highway,Bar,Cafe,3.4,3658,2010,Yes,Yes
+Golden Corner 141,Ahmedabad,CG Road,Sweet Shop,Street Food,4.0,2370,87,No,No
+Cafe Corner 142,Mumbai,Powai,Delivery,Desserts,4.3,4902,552,Yes,Yes
+Hotel Kitchen 143,Delhi,Dwarka,Cafe,Pizza,4.0,2926,670,Yes,No
+Green Grill 144,Mumbai,Juhu,Bakery,Biryani,3.9,4572,325,Yes,No
+Green Corner 145,Mumbai,Juhu,Fine Dining,Mughlai,3.3,1084,2788,No,No
+Cafe Kitchen 146,Bangalore,HSR Layout,Dhaba,Beverages,3.8,3516,242,Yes,No
+Urban Kitchen 147,Hyderabad,Banjara Hills,Food Court,Mughlai,3.3,2746,373,No,No
+Royal Place 148,Delhi,Hauz Khas,Cafe,Street Food,3.7,3025,353,No,No
+Silver Point 149,Bangalore,BTM Layout,Casual Dining,Beverages,2.9,233,959,No,No
+Urban House 150,Mumbai,Powai,Casual Dining,Seafood,2.9,175,750,No,No
+The Kitchen 151,Kolkata,Salt Lake,Cafe,South Indian,3.6,299,346,Yes,No
+Restaurant Lounge 152,Mumbai,Powai,Casual Dining,Continental,3.4,4289,975,Yes,Yes
+Urban House 153,Bangalore,Indiranagar,Fine Dining,Biryani,3.8,430,1548,No,No
+Silver Kitchen 154,Delhi,Connaught Place,Casual Dining,Fast Food,3.6,923,581,No,No
+Silver Corner 155,Ahmedabad,CG Road,Sweet Shop,Fast Food,3.7,3258,174,Yes,Yes
+Cafe Bites 156,Mumbai,Bandra,Dhaba,Street Food,4.0,503,349,Yes,No
+Green Place 157,Hyderabad,Jubilee Hills,Casual Dining,Mughlai,3.5,2814,578,No,No
+Silver Place 158,Chennai,T Nagar,Dhaba,Fast Food,3.6,4966,138,No,Yes
+Spice Place 159,Mumbai,Colaba,Delivery,Seafood,4.4,830,359,Yes,No
+Cafe Lounge 160,Chennai,Nungambakkam,Quick Bites,Pizza,3.7,3784,102,Yes,No
+Green Garden 161,Mumbai,Powai,Fine Dining,Cafe,3.6,1863,2215,Yes,No
+Hotel Point 162,Hyderabad,Gachibowli,Quick Bites,Chinese,,2123,163,Yes,No
+Golden Lounge 163,Hyderabad,Gachibowli,Delivery,Seafood,3.6,150,128,Yes,No
+Cafe Bites 164,Delhi,Connaught Place,Fine Dining,Beverages,3.3,4570,1571,Yes,No
+Urban Kitchen 165,Bangalore,Whitefield,Cafe,Italian,3.2,3582,210,Yes,No
+Silver Bites 166,Pune,Viman Nagar,Cafe,Street Food,3.3,197,296,Yes,Yes
+Silver House 167,Mumbai,Juhu,Dhaba,South Indian,4.1,3893,201,No,Yes
+The House 168,Bangalore,Indiranagar,Delivery,Continental,3.4,56,541,No,No
+Silver Lounge 169,Bangalore,Whitefield,Dhaba,Italian,3.6,2415,302,Yes,No
+Golden Kitchen 170,Delhi,Dwarka,Food Court,Continental,4.1,1825,170,Yes,No
+Spice Bites 171,Hyderabad,Jubilee Hills,Casual Dining,North Indian,,2969,950,No,Yes
+Golden Garden 172,Bangalore,BTM Layout,Bar,Italian,4.0,2526,1534,Yes,No
+Cafe Grill 173,Delhi,Hauz Khas,Food Court,Chinese,2.9,1874,251,No,Yes
+Green Kitchen 174,Mumbai,Powai,Casual Dining,Mughlai,,2573,445,No,No
+Hotel Place 175,Hyderabad,Jubilee Hills,Fine Dining,Pizza,3.7,1872,1265,Yes,Yes
+The Point 176,Bangalore,BTM Layout,Dhaba,Cafe,3.7,2743,190,No,Yes
+The Lounge 177,Hyderabad,Hitech City,Fine Dining,Cafe,2.9,3274,2387,Yes,No
+Restaurant Corner 178,Mumbai,Bandra,Fine Dining,Pizza,4.3,3204,2334,Yes,No
+Spice Point 179,Kolkata,Salt Lake,Casual Dining,Biryani,3.3,2584,737,Yes,No
+The Lounge 180,Bangalore,HSR Layout,Delivery,North Indian,3.9,4010,222,Yes,No
+Restaurant Grill 181,Mumbai,Bandra,Casual Dining,Continental,3.7,4940,1104,No,No
+Spice Place 182,Bangalore,Indiranagar,Bakery,Chinese,4.2,245,198,Yes,No
+Hotel Point 183,Kolkata,New Town,Cafe,Fast Food,4.8,3445,490,Yes,Yes
+Hotel Kitchen 184,Pune,Hinjewadi,Cafe,Italian,3.1,4636,358,Yes,No
+Golden Hub 185,Mumbai,Juhu,Food Court,North Indian,3.4,1412,252,No,No
+Royal Place 186,Hyderabad,Gachibowli,Cafe,Seafood,3.8,3507,584,Yes,No
+The Point 187,Chennai,Nungambakkam,Casual Dining,Street Food,3.1,4043,680,Yes,Yes
+Cafe Hub 188,Delhi,Connaught Place,Sweet Shop,Italian,,87,92,No,No
+Green Grill 189,Delhi,Dwarka,Dhaba,Chinese,,3773,329,Yes,No
+Spice Hub 190,Mumbai,Powai,Casual Dining,South Indian,4.0,955,995,No,No
+The Hub 191,Bangalore,BTM Layout,Casual Dining,South Indian,3.8,615,1102,Yes,Yes
+Restaurant House 192,Pune,Hinjewadi,Bar,Beverages,4.4,4674,1874,No,Yes
+Restaurant Place 193,Kolkata,Howrah,Dhaba,North Indian,3.1,3610,229,No,No
+Golden Garden 194,Hyderabad,Gachibowli,Bakery,Mughlai,3.7,4559,309,Yes,Yes
+Green House 195,Mumbai,Andheri,Cafe,Chinese,3.3,3288,325,Yes,No
+Hotel Kitchen 196,Mumbai,Juhu,Dhaba,Chinese,4.1,2178,335,No,No
+Silver Corner 197,Chennai,Anna Nagar,Cafe,Pizza,2.8,3489,647,Yes,No
+Restaurant Point 198,Pune,Viman Nagar,Food Court,Seafood,3.7,1527,218,No,No
+Hotel Kitchen 199,Pune,Viman Nagar,Dhaba,Mughlai,3.9,2606,108,Yes,No
+Spice Bites 200,Chennai,T Nagar,Cafe,Seafood,3.2,2662,457,Yes,No
+Hotel Garden 201,Hyderabad,Secunderabad,Bakery,Continental,3.4,2164,287,Yes,Yes
+Hotel Grill 202,Bangalore,BTM Layout,Quick Bites,Continental,3.7,2454,329,No,Yes
+Royal Lounge 203,Bangalore,HSR Layout,Fine Dining,Fast Food,4.2,3835,1388,Yes,No
+Silver Hub 204,Pune,Baner,Fine Dining,Beverages,3.2,126,2638,No,Yes
+The Grill 205,Hyderabad,Secunderabad,Bakery,Cafe,,4373,109,No,No
+Hotel Garden 206,Bangalore,BTM Layout,Bar,South Indian,4.3,1322,1937,Yes,Yes
+Green Grill 207,Bangalore,HSR Layout,Quick Bites,Street Food,3.6,4498,175,Yes,No
+Hotel Garden 208,Hyderabad,Hitech City,Food Court,Continental,3.3,2523,313,No,No
+Green Garden 209,Bangalore,Whitefield,Bakery,Mughlai,4.1,1235,184,Yes,No
+Silver Grill 210,Bangalore,Whitefield,Fine Dining,Chinese,3.5,1138,1248,No,Yes
+Restaurant Kitchen 211,Delhi,Karol Bagh,Fine Dining,Street Food,4.2,1306,2718,Yes,No
+Green House 212,Hyderabad,Gachibowli,Fine Dining,Desserts,3.4,4039,2037,Yes,No
+Royal Grill 213,Hyderabad,Jubilee Hills,Delivery,Seafood,3.6,1915,595,No,No
+Royal Hub 214,Mumbai,Andheri,Bakery,Continental,4.2,1510,276,Yes,Yes
+Golden Place 215,Hyderabad,Gachibowli,Casual Dining,Chinese,3.6,3190,786,Yes,No
+Hotel Grill 216,Mumbai,Colaba,Food Court,Continental,4.1,1921,367,Yes,No
+Restaurant Corner 217,Mumbai,Bandra,Fine Dining,South Indian,3.7,4920,2924,Yes,No
+Hotel Place 218,Chennai,T Nagar,Cafe,Desserts,4.7,3553,668,Yes,No
+Green Point 219,Hyderabad,Banjara Hills,Bakery,Italian,4.5,2762,329,No,Yes
+Royal House 220,Pune,Koregaon Park,Delivery,Continental,3.0,1961,354,Yes,No
+Spice Bites 221,Hyderabad,Secunderabad,Bakery,Mughlai,,183,335,Yes,No
+Royal Grill 222,Delhi,Lajpat Nagar,Food Court,Continental,3.3,901,175,No,No
+Royal Lounge 223,Bangalore,Indiranagar,Delivery,Cafe,3.8,1556,171,Yes,No
+Cafe Lounge 224,Mumbai,Colaba,Food Court,Street Food,3.7,496,410,Yes,Yes
+Spice Hub 225,Mumbai,Colaba,Bakery,Street Food,3.2,65,353,No,No
+Green Corner 226,Mumbai,Juhu,Casual Dining,South Indian,4.2,1082,670,No,Yes
+Hotel Place 227,Ahmedabad,SG Highway,Food Court,Mughlai,3.8,2900,272,Yes,No
+Restaurant Garden 228,Mumbai,Colaba,Delivery,Desserts,3.6,4165,243,Yes,No
+Hotel Hub 229,Pune,Kothrud,Delivery,Pizza,,3688,356,Yes,No
+Green Garden 230,Hyderabad,Secunderabad,Food Court,Mughlai,3.8,590,293,Yes,Yes
+Restaurant Corner 231,Chennai,Anna Nagar,Sweet Shop,Street Food,3.9,3965,214,Yes,No
+Hotel Place 232,Delhi,Karol Bagh,Bakery,Cafe,3.6,3775,358,Yes,No
+Green Kitchen 233,Delhi,Hauz Khas,Sweet Shop,Italian,2.5,539,229,Yes,No
+Hotel Lounge 234,Delhi,Lajpat Nagar,Bar,South Indian,3.7,3467,846,Yes,Yes
+Spice Place 235,Bangalore,BTM Layout,Bakery,Pizza,,4016,112,Yes,Yes
+Cafe Place 236,Chennai,T Nagar,Food Court,Cafe,3.6,3403,357,No,Yes
+Green Lounge 237,Mumbai,Powai,Quick Bites,Desserts,3.0,2160,334,Yes,No
+Urban Corner 238,Bangalore,Koramangala,Food Court,Seafood,3.0,1009,298,Yes,Yes
+Spice Point 239,Hyderabad,Gachibowli,Sweet Shop,Desserts,4.3,2504,115,Yes,No
+Golden House 240,Bangalore,Indiranagar,Casual Dining,Cafe,3.5,331,837,Yes,Yes
+Restaurant Point 241,Kolkata,New Town,Food Court,Seafood,3.5,4708,304,No,No
+The House 242,Kolkata,Park Street,Food Court,North Indian,3.9,2711,315,Yes,No
+Royal House 243,Kolkata,Park Street,Casual Dining,South Indian,3.5,6,489,Yes,No
+Royal Lounge 244,Mumbai,Powai,Food Court,Mughlai,4.8,1038,335,Yes,No
+Golden Place 245,Bangalore,Koramangala,Fine Dining,Seafood,3.6,2486,1557,No,Yes
+Golden House 246,Kolkata,Salt Lake,Quick Bites,Beverages,3.9,129,273,Yes,Yes
+Restaurant Point 247,Delhi,Dwarka,Cafe,Seafood,4.2,1109,416,Yes,No
+Silver House 248,Ahmedabad,CG Road,Quick Bites,Chinese,4.5,2704,363,Yes,No
+Cafe Bites 249,Ahmedabad,Navrangpura,Food Court,Italian,,1866,246,Yes,No
+The Lounge 250,Pune,Viman Nagar,Fine Dining,Chinese,3.5,2925,1828,Yes,No
+Royal Hub 251,Mumbai,Juhu,Bakery,Mughlai,4.3,133,298,Yes,No
+Spice Garden 252,Mumbai,Juhu,Food Court,Mughlai,4.1,442,469,No,No
+Royal Grill 253,Pune,Baner,Sweet Shop,South Indian,4.2,4851,279,No,No
+Restaurant Kitchen 254,Mumbai,Colaba,Fine Dining,Mughlai,,2553,1732,Yes,No
+Restaurant Kitchen 255,Bangalore,BTM Layout,Casual Dining,Street Food,4.5,3134,599,Yes,No
+Spice Point 256,Delhi,Hauz Khas,Fine Dining,Seafood,3.3,1226,1570,Yes,No
+Green Lounge 257,Kolkata,Salt Lake,Casual Dining,Seafood,3.8,906,847,No,No
+Silver Bites 258,Hyderabad,Secunderabad,Bar,North Indian,3.6,3173,1047,Yes,No
+Royal Kitchen 259,Delhi,Karol Bagh,Cafe,Pizza,3.3,4491,475,No,No
+Urban House 260,Bangalore,BTM Layout,Dhaba,Mughlai,3.0,3923,107,Yes,No
+Spice Garden 261,Hyderabad,Jubilee Hills,Fine Dining,Chinese,2.8,1072,2281,Yes,Yes
+The Hub 262,Ahmedabad,Vastrapur,Delivery,Mughlai,3.8,31,401,Yes,No
+Silver House 263,Bangalore,Indiranagar,Sweet Shop,Desserts,2.9,552,80,Yes,No
+Green Lounge 264,Delhi,Karol Bagh,Food Court,North Indian,3.1,2673,398,No,Yes
+Green Kitchen 265,Pune,Kothrud,Sweet Shop,Street Food,3.6,571,142,No,No
+Green House 266,Chennai,Nungambakkam,Quick Bites,Street Food,2.5,708,364,Yes,No
+Cafe Garden 267,Hyderabad,Secunderabad,Dhaba,Continental,4.1,4285,114,Yes,No
+Cafe Lounge 268,Hyderabad,Secunderabad,Quick Bites,Seafood,2.5,3145,193,No,Yes
+Cafe Grill 269,Mumbai,Colaba,Bar,Street Food,3.7,1595,2489,No,No
+Royal Kitchen 270,Mumbai,Colaba,Dhaba,Seafood,3.7,4948,237,Yes,No
+Royal Grill 271,Chennai,T Nagar,Dhaba,Continental,4.0,4699,128,Yes,No
+Urban Bites 272,Chennai,Adyar,Quick Bites,Cafe,3.7,810,179,Yes,No
+Royal Point 273,Pune,Baner,Casual Dining,Italian,4.7,3796,483,Yes,No
+The Hub 274,Kolkata,Salt Lake,Quick Bites,Fast Food,3.8,1362,136,Yes,No
+Spice Lounge 275,Delhi,Hauz Khas,Sweet Shop,Street Food,4.2,3230,135,Yes,No
+Spice Garden 276,Delhi,Connaught Place,Casual Dining,Pizza,3.3,3623,806,Yes,No
+Cafe Garden 277,Chennai,Nungambakkam,Sweet Shop,Desserts,3.8,2131,218,Yes,No
+Restaurant Point 278,Hyderabad,Jubilee Hills,Bar,Biryani,4.5,2465,1916,Yes,Yes
+Golden Hub 279,Hyderabad,Banjara Hills,Food Court,Cafe,3.6,550,485,No,No
+Green Grill 280,Chennai,Nungambakkam,Bakery,Street Food,3.8,2733,201,No,No
+Silver House 281,Pune,Kothrud,Casual Dining,Seafood,4.2,3739,811,Yes,No
+The Hub 282,Mumbai,Bandra,Bar,Italian,3.3,2567,1231,No,Yes
+Spice Garden 283,Mumbai,Colaba,Delivery,Continental,2.6,2084,265,No,No
+Hotel Place 284,Bangalore,HSR Layout,Bar,Chinese,3.8,2646,958,Yes,Yes
+Green Corner 285,Delhi,Lajpat Nagar,Quick Bites,Biryani,4.2,3119,113,Yes,Yes
+The Place 286,Bangalore,HSR Layout,Quick Bites,Italian,3.0,1931,324,No,No
+Spice Place 287,Delhi,Lajpat Nagar,Bakery,Italian,4.0,621,172,No,No
+Golden Garden 288,Delhi,Hauz Khas,Bar,Street Food,4.0,3649,2072,No,No
+Green Place 289,Mumbai,Juhu,Cafe,Cafe,2.6,1208,290,No,Yes
+The Place 290,Delhi,Hauz Khas,Food Court,Beverages,,1764,365,Yes,No
+Urban Grill 291,Bangalore,Indiranagar,Quick Bites,Biryani,3.5,2570,189,Yes,Yes
+Golden Garden 292,Bangalore,BTM Layout,Bakery,South Indian,,3179,128,Yes,No
+Spice Point 293,Pune,Viman Nagar,Food Court,Fast Food,3.3,3086,454,Yes,No
+Green Grill 294,Mumbai,Andheri,Bar,South Indian,3.3,2635,1787,Yes,No
+Cafe Bites 295,Bangalore,HSR Layout,Bar,Beverages,4.5,3166,2043,Yes,No
+Spice Place 296,Delhi,Hauz Khas,Dhaba,Seafood,3.6,4326,171,Yes,Yes
+Urban Point 297,Chennai,Velachery,Bakery,Seafood,3.4,674,314,No,No
+Silver Point 298,Bangalore,HSR Layout,Quick Bites,Desserts,3.7,3173,320,Yes,No
+Green Place 299,Hyderabad,Banjara Hills,Cafe,Biryani,4.0,2126,588,Yes,No
+Hotel Bites 300,Bangalore,HSR Layout,Bar,South Indian,3.7,4083,1353,Yes,No
+Restaurant Kitchen 301,Bangalore,Indiranagar,Cafe,Seafood,3.6,4156,334,Yes,Yes
+Hotel Hub 302,Delhi,Karol Bagh,Bar,Beverages,3.4,724,1865,No,No
+Urban Corner 303,Delhi,Lajpat Nagar,Quick Bites,Street Food,3.4,2605,263,No,No
+The Corner 304,Hyderabad,Gachibowli,Food Court,North Indian,3.4,3603,432,No,No
+Silver Corner 305,Chennai,Anna Nagar,Fine Dining,Continental,,4674,2281,Yes,Yes
+Restaurant Corner 306,Ahmedabad,CG Road,Food Court,North Indian,3.2,671,451,Yes,Yes
+Green Grill 307,Delhi,Dwarka,Bar,Mughlai,3.9,288,1633,Yes,No
+Silver Bites 308,Mumbai,Powai,Sweet Shop,South Indian,4.4,3908,74,Yes,No
+Urban Lounge 309,Chennai,Adyar,Fine Dining,Desserts,3.9,3570,2296,No,Yes
+Spice Lounge 310,Mumbai,Powai,Fine Dining,Mughlai,3.5,2239,2122,No,Yes
+Urban Hub 311,Delhi,Karol Bagh,Cafe,Seafood,3.1,4598,328,No,No
+Green Garden 312,Bangalore,BTM Layout,Bakery,Chinese,4.5,1470,186,Yes,No
+Urban Hub 313,Bangalore,Whitefield,Cafe,Pizza,3.1,134,529,No,No
+Royal Kitchen 314,Ahmedabad,Satellite,Cafe,Chinese,4.1,4739,625,Yes,No
+Restaurant Point 315,Pune,Baner,Sweet Shop,Beverages,4.0,2065,229,No,Yes
+Urban Grill 316,Hyderabad,Secunderabad,Food Court,Biryani,3.6,3677,302,Yes,No
+Silver Grill 317,Mumbai,Andheri,Food Court,Italian,3.6,2499,331,Yes,No
+Hotel Kitchen 318,Bangalore,Indiranagar,Delivery,Continental,2.8,997,224,Yes,Yes
+Silver Kitchen 319,Bangalore,BTM Layout,Bar,South Indian,3.9,2126,866,No,No
+Royal Kitchen 320,Mumbai,Colaba,Sweet Shop,Desserts,4.0,2589,55,Yes,No
+Spice House 321,Delhi,Lajpat Nagar,Delivery,Desserts,3.2,4201,224,Yes,No
+Spice Corner 322,Hyderabad,Banjara Hills,Quick Bites,Beverages,,2228,152,No,No
+Royal Hub 323,Hyderabad,Jubilee Hills,Bar,Cafe,3.7,4527,2401,Yes,No
+Royal Hub 324,Mumbai,Powai,Bar,Seafood,4.0,3193,1625,Yes,No
+Restaurant Kitchen 325,Kolkata,Park Street,Dhaba,Pizza,,3242,349,Yes,No
+The Place 326,Chennai,T Nagar,Dhaba,Fast Food,2.9,4141,181,Yes,No
+Urban Grill 327,Delhi,Lajpat Nagar,Casual Dining,Fast Food,3.4,4529,998,No,Yes
+Cafe Garden 328,Hyderabad,Gachibowli,Casual Dining,Fast Food,3.8,348,401,No,Yes
+Royal Corner 329,Mumbai,Powai,Cafe,South Indian,4.1,4466,403,Yes,No
+Spice Point 330,Mumbai,Juhu,Quick Bites,Fast Food,,4709,249,No,Yes
+Urban Bites 331,Mumbai,Andheri,Fine Dining,Street Food,4.8,4828,2004,Yes,No
+The Hub 332,Chennai,Nungambakkam,Fine Dining,North Indian,2.8,2281,1603,Yes,No
+Spice Lounge 333,Bangalore,Koramangala,Dhaba,Desserts,3.4,4925,202,Yes,No
+Silver House 334,Bangalore,Whitefield,Dhaba,Pizza,3.7,3206,123,Yes,No
+Cafe Lounge 335,Bangalore,Indiranagar,Dhaba,North Indian,3.6,893,211,Yes,No
+Cafe Corner 336,Bangalore,Whitefield,Sweet Shop,Italian,3.1,2048,261,No,Yes
+Golden Hub 337,Pune,Baner,Bakery,Pizza,3.9,1346,164,No,No
+Royal Kitchen 338,Hyderabad,Hitech City,Casual Dining,North Indian,,3725,608,Yes,No
+Royal Lounge 339,Delhi,Karol Bagh,Sweet Shop,Pizza,,2888,178,Yes,No
+Restaurant Garden 340,Bangalore,Koramangala,Food Court,Italian,3.9,4217,266,No,No
+Royal Garden 341,Delhi,Hauz Khas,Fine Dining,Mughlai,3.5,2420,1827,No,No
+Cafe Corner 342,Delhi,Connaught Place,Bar,Street Food,,1122,1548,No,Yes
+Restaurant Hub 343,Bangalore,Whitefield,Casual Dining,South Indian,3.3,4268,877,Yes,Yes
+Silver Bites 344,Delhi,Lajpat Nagar,Delivery,South Indian,,3006,204,No,Yes
+Spice House 345,Mumbai,Juhu,Food Court,Beverages,3.8,1743,408,Yes,No
+Golden House 346,Hyderabad,Banjara Hills,Casual Dining,Seafood,3.7,1369,445,Yes,Yes
+Green Point 347,Hyderabad,Secunderabad,Sweet Shop,Desserts,,2713,104,Yes,Yes
+Royal Garden 348,Bangalore,BTM Layout,Quick Bites,Fast Food,3.4,4795,315,Yes,No
+Green Place 349,Mumbai,Juhu,Bar,Street Food,3.7,929,1781,Yes,Yes
+Golden Lounge 350,Hyderabad,Banjara Hills,Casual Dining,Chinese,4.0,156,891,Yes,No
+The Kitchen 351,Delhi,Connaught Place,Bakery,Fast Food,3.7,590,123,Yes,Yes
+Cafe Place 352,Pune,Koregaon Park,Dhaba,Seafood,3.1,917,301,No,Yes
+Silver Lounge 353,Hyderabad,Gachibowli,Dhaba,Desserts,3.2,2326,134,Yes,No
+Restaurant Kitchen 354,Bangalore,BTM Layout,Bar,Biryani,4.1,500,2359,Yes,No
+Restaurant House 355,Bangalore,BTM Layout,Sweet Shop,Seafood,4.4,3800,77,Yes,No
+Silver House 356,Hyderabad,Gachibowli,Dhaba,Street Food,4.3,2153,327,No,No
+The Hub 357,Bangalore,Indiranagar,Casual Dining,North Indian,3.8,561,415,Yes,No
+Hotel House 358,Delhi,Karol Bagh,Delivery,Pizza,,1557,158,Yes,No
+Spice Corner 359,Kolkata,Park Street,Fine Dining,Chinese,3.7,2125,1442,Yes,Yes
+Royal Lounge 360,Delhi,Karol Bagh,Fine Dining,Street Food,4.5,3090,2430,No,No
+Green Kitchen 361,Mumbai,Bandra,Food Court,Italian,4.0,3509,420,No,No
+Urban Garden 362,Hyderabad,Hitech City,Cafe,Biryani,3.6,161,448,Yes,No
+Spice Corner 363,Delhi,Connaught Place,Quick Bites,Italian,4.0,739,366,Yes,No
+Hotel Kitchen 364,Delhi,Dwarka,Bar,South Indian,3.1,4659,1504,No,No
+Golden Bites 365,Kolkata,Ballygunge,Food Court,Beverages,3.4,3281,484,Yes,No
+Silver Grill 366,Mumbai,Bandra,Cafe,South Indian,,159,417,Yes,No
+Green Place 367,Ahmedabad,SG Highway,Sweet Shop,Seafood,3.9,1001,164,Yes,No
+Golden Grill 368,Kolkata,New Town,Bakery,Fast Food,4.1,2299,167,Yes,Yes
+Royal Corner 369,Bangalore,Indiranagar,Bakery,North Indian,3.6,4631,398,Yes,No
+The Corner 370,Bangalore,Indiranagar,Quick Bites,Chinese,,2910,174,Yes,No
+Restaurant Lounge 371,Bangalore,Indiranagar,Dhaba,Seafood,3.7,4829,309,No,No
+Green House 372,Bangalore,HSR Layout,Casual Dining,Continental,3.5,1182,881,No,No
+Restaurant Point 373,Bangalore,HSR Layout,Food Court,Biryani,,158,252,Yes,No
+Spice Garden 374,Hyderabad,Hitech City,Food Court,Biryani,3.9,4192,446,No,No
+Spice Kitchen 375,Bangalore,HSR Layout,Bar,Seafood,3.3,1721,1801,Yes,No
+Urban Garden 376,Mumbai,Andheri,Bar,Seafood,2.9,3207,977,Yes,No
+Cafe Corner 377,Pune,Baner,Bakery,Street Food,3.0,2862,314,Yes,No
+Royal Lounge 378,Bangalore,BTM Layout,Bakery,Fast Food,2.9,791,138,No,No
+Green Lounge 379,Chennai,Adyar,Delivery,South Indian,3.8,4373,358,No,No
+Cafe Garden 380,Mumbai,Colaba,Delivery,Beverages,3.8,4277,303,No,No
+The Lounge 381,Bangalore,Koramangala,Dhaba,Fast Food,3.8,3772,106,No,Yes
+Royal Corner 382,Hyderabad,Gachibowli,Delivery,Pizza,4.0,2883,148,Yes,No
+Cafe Kitchen 383,Hyderabad,Gachibowli,Casual Dining,Street Food,4.3,647,937,No,No
+Royal Grill 384,Pune,Kothrud,Casual Dining,Street Food,3.4,4667,560,No,No
+Spice Bites 385,Chennai,Nungambakkam,Food Court,Chinese,3.9,670,325,No,No
+The Kitchen 386,Chennai,Anna Nagar,Fine Dining,North Indian,2.9,3431,2814,Yes,No
+Restaurant Place 387,Mumbai,Colaba,Casual Dining,Beverages,4.4,3788,401,Yes,Yes
+Cafe Kitchen 388,Bangalore,HSR Layout,Cafe,Desserts,3.1,3706,688,Yes,No
+Royal House 389,Chennai,Nungambakkam,Bakery,Mughlai,,1074,231,Yes,No
+Silver Corner 390,Chennai,Adyar,Bar,Desserts,,2354,1075,Yes,No
+Royal Lounge 391,Ahmedabad,Navrangpura,Delivery,Seafood,2.9,4508,597,Yes,Yes
+Silver Bites 392,Mumbai,Colaba,Food Court,Cafe,3.7,1217,266,Yes,No
+Spice Hub 393,Mumbai,Juhu,Quick Bites,Cafe,3.8,1157,263,Yes,No
+Golden Bites 394,Chennai,Anna Nagar,Bar,Street Food,3.6,2516,1851,Yes,No
+Urban Place 395,Mumbai,Juhu,Cafe,Fast Food,2.9,148,532,Yes,No
+Restaurant Grill 396,Kolkata,Ballygunge,Delivery,Pizza,4.7,2494,100,No,No
+The Grill 397,Pune,Hinjewadi,Cafe,Chinese,4.0,3233,387,Yes,No
+Golden Hub 398,Delhi,Dwarka,Bakery,Continental,4.9,4587,155,Yes,No
+Urban Grill 399,Chennai,Nungambakkam,Bakery,Cafe,3.3,4960,134,No,No
+Hotel House 400,Chennai,Nungambakkam,Dhaba,Chinese,4.2,3210,211,Yes,Yes
+Urban Corner 401,Bangalore,Indiranagar,Food Court,Street Food,4.1,4248,435,Yes,No
+Cafe Lounge 402,Kolkata,Howrah,Bar,North Indian,3.6,3147,2133,Yes,No
+Urban Corner 403,Delhi,Dwarka,Sweet Shop,Italian,4.4,3309,85,Yes,No
+Royal Place 404,Pune,Viman Nagar,Sweet Shop,Desserts,3.5,1362,298,No,No
+Silver Point 405,Mumbai,Powai,Bar,Pizza,3.5,2718,1238,Yes,Yes
+Hotel Kitchen 406,Pune,Kothrud,Quick Bites,South Indian,2.5,4190,316,Yes,Yes
+Hotel Bites 407,Mumbai,Powai,Food Court,Seafood,3.9,1362,229,Yes,No
+Cafe Bites 408,Bangalore,BTM Layout,Cafe,Chinese,3.0,4299,513,Yes,Yes
+Spice Kitchen 409,Kolkata,Salt Lake,Quick Bites,North Indian,3.4,4638,182,No,No
+Silver House 410,Bangalore,Whitefield,Fine Dining,Continental,3.2,3197,2800,Yes,No
+Silver Lounge 411,Mumbai,Juhu,Bar,Mughlai,3.5,305,2148,Yes,No
+Cafe Lounge 412,Kolkata,Park Street,Cafe,Desserts,,728,327,Yes,Yes
+Silver House 413,Kolkata,Ballygunge,Sweet Shop,South Indian,3.7,3015,100,Yes,Yes
+Green Kitchen 414,Delhi,Lajpat Nagar,Casual Dining,Desserts,4.1,72,933,Yes,No
+Spice Place 415,Hyderabad,Gachibowli,Dhaba,Street Food,4.3,3841,315,No,No
+The Place 416,Delhi,Lajpat Nagar,Sweet Shop,Mughlai,3.5,3998,156,No,No
+Silver House 417,Mumbai,Juhu,Food Court,Desserts,3.5,2511,258,No,No
+Green Kitchen 418,Mumbai,Colaba,Bakery,Beverages,4.2,1542,280,No,No
+Cafe Kitchen 419,Hyderabad,Jubilee Hills,Casual Dining,Continental,4.2,402,755,No,No
+Urban Bites 420,Chennai,Velachery,Dhaba,North Indian,4.1,4720,263,Yes,No
+The Garden 421,Chennai,Velachery,Dhaba,Seafood,3.2,3362,167,No,No
+Royal Place 422,Chennai,Adyar,Fine Dining,Cafe,3.9,1168,1491,No,Yes
+Cafe Kitchen 423,Bangalore,Koramangala,Fine Dining,Mughlai,3.8,4830,1891,No,Yes
+Silver Grill 424,Delhi,Lajpat Nagar,Delivery,Street Food,4.2,560,280,Yes,No
+Silver Lounge 425,Bangalore,BTM Layout,Sweet Shop,Beverages,3.4,3666,259,Yes,No
+Royal Grill 426,Delhi,Karol Bagh,Sweet Shop,South Indian,2.9,1756,227,No,No
+Golden Lounge 427,Delhi,Karol Bagh,Sweet Shop,Fast Food,4.0,2946,257,No,Yes
+Cafe Place 428,Pune,Viman Nagar,Delivery,Biryani,2.5,2662,268,No,No
+Royal Point 429,Mumbai,Juhu,Quick Bites,Chinese,3.3,2800,121,Yes,Yes
+Royal House 430,Bangalore,Indiranagar,Dhaba,Seafood,3.2,2334,165,Yes,No
+Royal Point 431,Bangalore,Whitefield,Casual Dining,Desserts,3.2,1964,420,Yes,No
+Green Place 432,Chennai,Adyar,Food Court,Cafe,3.3,1606,249,No,No
+Cafe Point 433,Hyderabad,Hitech City,Dhaba,Mughlai,4.3,2798,227,Yes,No
+Royal Bites 434,Bangalore,BTM Layout,Fine Dining,Desserts,4.1,1485,2838,Yes,No
+The Garden 435,Bangalore,BTM Layout,Cafe,Italian,,1107,246,No,No
+Urban Place 436,Hyderabad,Banjara Hills,Bakery,Chinese,4.3,3281,138,Yes,No
+Spice Place 437,Bangalore,BTM Layout,Delivery,Fast Food,,1304,384,No,No
+Green Hub 438,Pune,Hinjewadi,Bar,Beverages,3.1,4999,1621,Yes,No
+Restaurant Corner 439,Hyderabad,Secunderabad,Cafe,Continental,4.1,3884,289,No,No
+Green Garden 440,Bangalore,Koramangala,Food Court,Beverages,4.0,1540,234,Yes,Yes
+Cafe Corner 441,Bangalore,Whitefield,Sweet Shop,Beverages,3.5,82,66,No,Yes
+Golden Lounge 442,Ahmedabad,Satellite,Fine Dining,Biryani,3.1,2836,2559,No,Yes
+Cafe House 443,Mumbai,Juhu,Fine Dining,North Indian,4.4,3415,2411,Yes,No
+Hotel House 444,Mumbai,Colaba,Fine Dining,Beverages,2.8,2726,1870,Yes,No
+Silver Corner 445,Chennai,Adyar,Sweet Shop,Desserts,3.4,3632,292,Yes,No
+Silver Point 446,Kolkata,Ballygunge,Bar,Fast Food,3.8,1537,1896,No,No
+The Point 447,Ahmedabad,Navrangpura,Delivery,Fast Food,4.6,242,578,No,No
+Spice Corner 448,Chennai,Nungambakkam,Cafe,Continental,3.9,2001,661,Yes,No
+The Bites 449,Mumbai,Powai,Sweet Shop,Pizza,3.9,3432,98,Yes,No
+The Lounge 450,Bangalore,Koramangala,Food Court,Continental,3.4,282,250,Yes,Yes
+Royal Place 451,Chennai,Velachery,Delivery,Desserts,4.0,3094,101,No,Yes
+Golden Point 452,Delhi,Connaught Place,Food Court,Pizza,3.8,528,393,No,No
+Urban Lounge 453,Delhi,Hauz Khas,Delivery,Pizza,2.9,4280,275,Yes,No
+Hotel Hub 454,Kolkata,Howrah,Bar,Cafe,4.1,4223,1037,Yes,Yes
+Spice Grill 455,Bangalore,Whitefield,Bakery,Cafe,4.2,3127,158,Yes,Yes
+Hotel Grill 456,Delhi,Connaught Place,Food Court,South Indian,4.1,4580,248,Yes,No
+Royal Kitchen 457,Bangalore,Koramangala,Sweet Shop,Mughlai,3.7,1802,235,Yes,No
+Restaurant Point 458,Delhi,Hauz Khas,Delivery,Mughlai,3.2,2136,458,Yes,No
+Hotel Lounge 459,Bangalore,Koramangala,Fine Dining,Street Food,2.5,820,1694,Yes,No
+Cafe Bites 460,Bangalore,HSR Layout,Dhaba,Seafood,3.8,2699,278,Yes,No
+Urban Place 461,Bangalore,BTM Layout,Fine Dining,North Indian,4.2,447,2737,Yes,No
+Hotel Lounge 462,Hyderabad,Banjara Hills,Quick Bites,Mughlai,4.2,3145,342,Yes,No
+Hotel Garden 463,Chennai,Anna Nagar,Bakery,Cafe,4.1,147,396,Yes,No
+Silver Grill 464,Delhi,Hauz Khas,Bakery,South Indian,3.7,4292,310,No,No
+Green Bites 465,Ahmedabad,Navrangpura,Fine Dining,Beverages,,1415,2346,No,No
+Hotel Point 466,Mumbai,Bandra,Cafe,South Indian,4.2,4478,428,Yes,Yes
+Green Kitchen 467,Mumbai,Powai,Bar,Beverages,3.5,539,2417,Yes,No
+Green Place 468,Pune,Baner,Food Court,Pizza,4.0,1721,293,No,No
+Cafe Corner 469,Mumbai,Bandra,Sweet Shop,Street Food,,3369,181,No,No
+Royal Bites 470,Ahmedabad,Navrangpura,Bakery,Seafood,4.0,1037,239,Yes,No
+Spice Corner 471,Bangalore,BTM Layout,Fine Dining,Continental,3.1,3347,1740,Yes,No
+Green Grill 472,Ahmedabad,Satellite,Fine Dining,North Indian,3.1,1415,2614,Yes,Yes
+The Corner 473,Bangalore,HSR Layout,Bar,Desserts,4.2,4505,1069,Yes,No
+Spice Lounge 474,Pune,Hinjewadi,Bar,Pizza,4.2,1177,1835,Yes,No
+Urban Kitchen 475,Delhi,Connaught Place,Casual Dining,Continental,4.0,893,788,Yes,No
+Green Place 476,Ahmedabad,Vastrapur,Casual Dining,Mughlai,,3343,736,No,No
+Spice Point 477,Bangalore,Indiranagar,Cafe,Street Food,,4522,305,Yes,Yes
+Silver Place 478,Delhi,Karol Bagh,Cafe,Pizza,3.7,1646,231,Yes,No
+Spice Corner 479,Ahmedabad,Vastrapur,Quick Bites,Chinese,,476,173,Yes,Yes
+Silver Grill 480,Delhi,Dwarka,Cafe,Mughlai,3.4,2945,370,Yes,No
+Cafe Garden 481,Hyderabad,Hitech City,Delivery,Continental,3.3,551,436,Yes,No
+Spice Hub 482,Hyderabad,Secunderabad,Bar,North Indian,4.4,4731,1892,Yes,Yes
+Silver House 483,Delhi,Hauz Khas,Sweet Shop,Desserts,3.7,3602,94,No,No
+Hotel Hub 484,Hyderabad,Banjara Hills,Delivery,Continental,3.9,2830,461,Yes,Yes
+Green Garden 485,Delhi,Hauz Khas,Food Court,Beverages,4.1,3728,286,No,Yes
+The Place 486,Kolkata,Howrah,Fine Dining,Pizza,3.2,368,2656,No,No
+The Garden 487,Bangalore,BTM Layout,Cafe,Pizza,,2171,616,Yes,No
+Hotel Grill 488,Mumbai,Powai,Fine Dining,Desserts,4.4,3314,1299,Yes,No
+Royal Grill 489,Kolkata,Howrah,Bakery,Fast Food,4.6,550,245,Yes,No
+Silver Garden 490,Pune,Kothrud,Quick Bites,North Indian,3.7,3245,108,No,No
+Spice House 491,Delhi,Connaught Place,Bakery,Italian,3.6,4734,161,No,No
+Green Bites 492,Hyderabad,Gachibowli,Quick Bites,Mughlai,,1941,284,No,Yes
+Urban House 493,Mumbai,Powai,Casual Dining,South Indian,,967,428,Yes,Yes
+Cafe Corner 494,Bangalore,HSR Layout,Fine Dining,Desserts,4.4,3010,2337,No,No
+The House 495,Delhi,Karol Bagh,Quick Bites,North Indian,3.2,3811,242,Yes,No
+Golden House 496,Mumbai,Powai,Dhaba,South Indian,3.6,887,233,Yes,No
+Hotel Place 497,Delhi,Dwarka,Delivery,North Indian,3.1,3845,219,Yes,No
+Silver Bites 498,Bangalore,Koramangala,Quick Bites,North Indian,3.2,875,269,Yes,No
+Hotel Kitchen 499,Ahmedabad,SG Highway,Quick Bites,Continental,3.9,4616,256,No,Yes
+Silver Point 500,Ahmedabad,Vastrapur,Delivery,Seafood,4.1,2990,434,Yes,Yes
+The Grill 501,Hyderabad,Gachibowli,Fine Dining,Beverages,3.4,870,1459,Yes,No
+Hotel Bites 502,Delhi,Karol Bagh,Fine Dining,North Indian,4.1,4314,1281,Yes,No
+Spice Place 503,Mumbai,Powai,Delivery,Seafood,4.3,3208,341,No,No
+Hotel Grill 504,Chennai,Anna Nagar,Bakery,Fast Food,4.7,2902,271,No,Yes
+Green House 505,Hyderabad,Secunderabad,Dhaba,Italian,3.7,2249,330,Yes,No
+Restaurant Grill 506,Bangalore,BTM Layout,Sweet Shop,Pizza,3.4,23,257,Yes,Yes
+The Point 507,Kolkata,New Town,Food Court,Biryani,3.2,646,224,Yes,Yes
+The Corner 508,Pune,Koregaon Park,Dhaba,South Indian,3.1,3088,113,No,No
+Spice House 509,Kolkata,Ballygunge,Fine Dining,Pizza,,334,1825,Yes,No
+Restaurant Point 510,Chennai,T Nagar,Sweet Shop,Biryani,2.9,870,111,Yes,No
+Royal Kitchen 511,Hyderabad,Gachibowli,Casual Dining,Italian,4.3,778,719,Yes,Yes
+Silver Point 512,Mumbai,Powai,Cafe,Beverages,3.3,4492,301,Yes,No
+Cafe Garden 513,Kolkata,Park Street,Quick Bites,Italian,3.4,4737,309,No,No
+Golden Kitchen 514,Pune,Koregaon Park,Delivery,South Indian,3.6,2359,541,Yes,No
+Royal Point 515,Bangalore,Koramangala,Delivery,South Indian,,3343,354,Yes,No
+Silver Bites 516,Bangalore,HSR Layout,Quick Bites,Italian,4.2,3523,119,Yes,Yes
+Spice Garden 517,Mumbai,Colaba,Cafe,Biryani,4.6,2947,257,Yes,No
+Spice Grill 518,Chennai,Adyar,Food Court,Desserts,3.4,2572,261,No,No
+Restaurant Corner 519,Ahmedabad,SG Highway,Cafe,North Indian,3.5,1679,672,Yes,Yes
+Restaurant Hub 520,Bangalore,BTM Layout,Sweet Shop,Mughlai,3.6,2688,106,No,No
+Silver Bites 521,Delhi,Lajpat Nagar,Cafe,Street Food,4.0,3385,685,No,Yes
+Spice Point 522,Mumbai,Juhu,Sweet Shop,Seafood,,744,254,Yes,No
+Spice Place 523,Ahmedabad,Satellite,Cafe,Chinese,4.4,1550,395,Yes,No
+Green Point 524,Pune,Koregaon Park,Food Court,Street Food,4.3,4569,241,Yes,Yes
+Golden Place 525,Pune,Baner,Food Court,Pizza,3.1,2264,201,No,No
+Royal House 526,Delhi,Karol Bagh,Fine Dining,Continental,4.0,1140,1719,Yes,No
+Hotel Lounge 527,Mumbai,Powai,Quick Bites,Pizza,4.5,878,399,Yes,No
+Royal Grill 528,Mumbai,Bandra,Food Court,Continental,3.5,4560,247,Yes,No
+Cafe Corner 529,Bangalore,BTM Layout,Sweet Shop,Biryani,3.6,2305,285,No,No
+Spice Hub 530,Pune,Hinjewadi,Food Court,Continental,3.4,756,218,Yes,No
+Hotel Point 531,Chennai,T Nagar,Fine Dining,South Indian,,858,2126,Yes,No
+Royal House 532,Ahmedabad,Navrangpura,Delivery,Desserts,2.9,3737,144,Yes,Yes
+Golden Lounge 533,Ahmedabad,SG Highway,Sweet Shop,Mughlai,3.0,2288,186,Yes,No
+Silver Garden 534,Delhi,Dwarka,Fine Dining,Mughlai,3.7,1334,1433,No,No
+Golden Corner 535,Chennai,Velachery,Bakery,South Indian,,482,131,Yes,No
+Spice Bites 536,Kolkata,Howrah,Bakery,Desserts,3.4,2731,388,No,No
+Restaurant Bites 537,Pune,Koregaon Park,Casual Dining,Beverages,3.4,3096,1037,No,No
+Hotel Place 538,Mumbai,Powai,Cafe,Fast Food,4.6,4235,266,Yes,No
+Hotel House 539,Delhi,Hauz Khas,Quick Bites,Beverages,3.1,4510,129,No,No
+Royal Grill 540,Bangalore,HSR Layout,Bar,Street Food,2.9,1274,913,Yes,No
+Silver Kitchen 541,Kolkata,Ballygunge,Dhaba,Biryani,,4186,303,Yes,No
+The Hub 542,Hyderabad,Secunderabad,Fine Dining,Street Food,3.4,2608,2252,No,No
+Golden Lounge 543,Mumbai,Powai,Delivery,Fast Food,2.8,1474,230,Yes,No
+Golden Corner 544,Hyderabad,Hitech City,Dhaba,Fast Food,3.6,382,317,Yes,No
+Golden Corner 545,Hyderabad,Gachibowli,Delivery,Pizza,4.2,1685,284,Yes,Yes
+Golden Bites 546,Mumbai,Powai,Dhaba,Italian,3.1,246,129,No,No
+Green Corner 547,Bangalore,BTM Layout,Fine Dining,Pizza,,924,2104,Yes,No
+Royal Lounge 548,Hyderabad,Jubilee Hills,Bar,Italian,3.9,74,1185,Yes,Yes
+Restaurant Corner 549,Delhi,Hauz Khas,Dhaba,Chinese,,3929,161,Yes,Yes
+Hotel Point 550,Chennai,Anna Nagar,Fine Dining,Continental,3.8,2091,1714,No,No
+Cafe Kitchen 551,Delhi,Lajpat Nagar,Food Court,Desserts,3.8,2012,217,No,No
+Cafe Hub 552,Pune,Kothrud,Bar,Italian,3.3,805,2360,Yes,No
+Spice Point 553,Delhi,Dwarka,Sweet Shop,Beverages,4.4,2784,228,No,No
+Hotel Corner 554,Delhi,Dwarka,Delivery,Street Food,4.3,4925,240,Yes,Yes
+Cafe Point 555,Pune,Koregaon Park,Bakery,South Indian,4.3,760,330,Yes,No
+Urban Lounge 556,Mumbai,Powai,Cafe,Pizza,4.2,2000,499,No,No
+Restaurant Kitchen 557,Bangalore,HSR Layout,Bakery,Desserts,2.9,1326,262,No,Yes
+Spice Hub 558,Bangalore,Koramangala,Bar,Biryani,4.2,2335,1110,No,No
+Silver House 559,Chennai,Adyar,Sweet Shop,Desserts,4.0,114,264,No,No
+Golden Bites 560,Hyderabad,Banjara Hills,Delivery,Seafood,2.9,1021,492,Yes,Yes
+Restaurant Hub 561,Hyderabad,Secunderabad,Sweet Shop,Continental,3.6,3870,179,No,Yes
+Restaurant Lounge 562,Bangalore,Koramangala,Dhaba,Seafood,3.8,29,288,Yes,Yes
+Green Kitchen 563,Bangalore,Indiranagar,Delivery,Chinese,4.5,4943,345,Yes,No
+The Hub 564,Bangalore,Whitefield,Dhaba,Italian,4.1,2843,140,Yes,No
+Golden House 565,Mumbai,Powai,Fine Dining,Chinese,3.3,742,1371,Yes,No
+Cafe Hub 566,Delhi,Karol Bagh,Bar,Biryani,4.5,184,1375,Yes,No
+Restaurant Garden 567,Mumbai,Powai,Fine Dining,Beverages,3.7,236,1230,Yes,No
+The Hub 568,Delhi,Karol Bagh,Casual Dining,Fast Food,3.6,1922,446,Yes,No
+Spice Grill 569,Kolkata,Salt Lake,Sweet Shop,Seafood,3.5,347,179,Yes,No
+Restaurant Kitchen 570,Mumbai,Colaba,Dhaba,Mughlai,2.9,4577,195,Yes,Yes
+Golden Point 571,Delhi,Connaught Place,Food Court,Seafood,3.6,2628,482,Yes,No
+Restaurant Bites 572,Chennai,Velachery,Fine Dining,Biryani,3.9,459,2845,Yes,No
+Golden House 573,Mumbai,Powai,Casual Dining,Cafe,3.5,4389,980,No,No
+Golden Place 574,Hyderabad,Hitech City,Quick Bites,Biryani,3.9,4630,157,No,No
+Hotel Corner 575,Pune,Kothrud,Bakery,Chinese,3.3,2281,205,No,No
+Urban Place 576,Kolkata,Ballygunge,Delivery,Desserts,,600,399,Yes,No
+Restaurant Bites 577,Bangalore,Whitefield,Casual Dining,South Indian,3.9,3879,729,No,No
+Golden House 578,Kolkata,Howrah,Bar,Pizza,3.8,4535,1567,Yes,No
+Green Bites 579,Delhi,Karol Bagh,Fine Dining,South Indian,2.9,4982,1882,Yes,No
+Green Place 580,Mumbai,Powai,Bar,Chinese,3.5,4502,2206,Yes,No
+Spice Corner 581,Delhi,Dwarka,Bakery,Pizza,4.5,2674,261,No,No
+Urban Hub 582,Ahmedabad,Navrangpura,Food Court,Cafe,3.5,2140,435,Yes,No
+Hotel Place 583,Delhi,Connaught Place,Sweet Shop,Mughlai,3.7,3969,120,Yes,No
+Restaurant Place 584,Mumbai,Powai,Sweet Shop,Continental,3.7,1570,247,Yes,No
+Restaurant Place 585,Hyderabad,Jubilee Hills,Bar,Street Food,4.5,313,1685,No,No
+Spice Garden 586,Mumbai,Colaba,Dhaba,Chinese,4.3,347,154,Yes,No
+Hotel House 587,Bangalore,Indiranagar,Food Court,Desserts,4.1,440,472,Yes,No
+Hotel Bites 588,Bangalore,Whitefield,Sweet Shop,Italian,,181,190,Yes,Yes
+Silver Hub 589,Bangalore,HSR Layout,Food Court,Chinese,,143,152,Yes,Yes
+The Bites 590,Bangalore,BTM Layout,Casual Dining,Chinese,4.0,198,425,No,No
+Green Corner 591,Bangalore,Koramangala,Food Court,Seafood,3.4,3262,462,Yes,No
+The Lounge 592,Hyderabad,Secunderabad,Cafe,Seafood,3.3,3240,325,No,No
+Silver Garden 593,Bangalore,Whitefield,Bakery,Pizza,4.6,947,152,Yes,No
+Spice House 594,Mumbai,Bandra,Sweet Shop,North Indian,3.5,4625,247,No,Yes
+The Corner 595,Pune,Baner,Food Court,Biryani,4.5,3884,448,Yes,No
+Golden Garden 596,Delhi,Connaught Place,Bar,Desserts,,3118,987,Yes,No
+Hotel Place 597,Hyderabad,Gachibowli,Quick Bites,North Indian,3.9,2967,285,Yes,No
+Restaurant Place 598,Bangalore,HSR Layout,Cafe,Beverages,3.9,4841,504,Yes,No
+Spice Kitchen 599,Bangalore,HSR Layout,Cafe,Cafe,3.0,4962,497,Yes,No
+Spice Kitchen 600,Bangalore,BTM Layout,Dhaba,Italian,3.8,958,303,No,Yes
+Golden Corner 601,Bangalore,Indiranagar,Food Court,Seafood,4.4,1307,160,Yes,No
+Hotel Hub 602,Mumbai,Colaba,Dhaba,Mughlai,4.0,3386,202,No,No
+Cafe Corner 603,Bangalore,BTM Layout,Dhaba,Fast Food,3.8,2885,197,No,No
+Golden Garden 604,Bangalore,BTM Layout,Quick Bites,Cafe,4.6,2192,245,Yes,No
+Silver Lounge 605,Bangalore,HSR Layout,Casual Dining,Fast Food,3.6,4892,996,No,No
+Urban Garden 606,Delhi,Connaught Place,Food Court,Desserts,3.4,550,249,No,No
+Spice Bites 607,Bangalore,Whitefield,Fine Dining,Desserts,3.8,1932,1815,Yes,No
+Green Corner 608,Mumbai,Bandra,Sweet Shop,Beverages,4.1,4157,229,No,No
+Royal Lounge 609,Delhi,Karol Bagh,Dhaba,Fast Food,2.8,9,145,Yes,No
+Spice Hub 610,Hyderabad,Jubilee Hills,Bakery,Desserts,3.8,3486,143,Yes,No
+The Hub 611,Bangalore,HSR Layout,Delivery,Mughlai,4.1,3258,377,No,No
+Royal House 612,Chennai,T Nagar,Bakery,South Indian,3.6,1367,280,Yes,No
+Silver Corner 613,Hyderabad,Secunderabad,Quick Bites,North Indian,4.3,1825,286,Yes,No
+Golden Lounge 614,Bangalore,HSR Layout,Quick Bites,Chinese,,2668,213,Yes,Yes
+Spice Point 615,Pune,Baner,Bar,Continental,4.8,2943,1290,No,Yes
+Urban Point 616,Kolkata,Salt Lake,Casual Dining,Fast Food,,1278,654,No,No
+Silver Bites 617,Bangalore,Whitefield,Sweet Shop,Italian,4.1,3331,174,Yes,No
+Golden Grill 618,Mumbai,Powai,Dhaba,Cafe,3.2,3664,223,No,No
+Royal Garden 619,Chennai,Anna Nagar,Bakery,South Indian,2.9,2950,129,No,No
+Cafe Corner 620,Chennai,Velachery,Delivery,Fast Food,2.7,3023,363,Yes,Yes
+Golden Place 621,Bangalore,Whitefield,Quick Bites,South Indian,4.0,1136,197,Yes,No
+The Point 622,Bangalore,Indiranagar,Quick Bites,South Indian,3.8,4768,214,No,Yes
+Cafe Kitchen 623,Mumbai,Andheri,Casual Dining,Fast Food,3.5,2641,675,No,No
+Green Bites 624,Delhi,Lajpat Nagar,Delivery,Pizza,2.8,3034,587,No,Yes
+Royal Garden 625,Hyderabad,Hitech City,Delivery,Biryani,3.4,3024,380,Yes,No
+Spice Point 626,Mumbai,Bandra,Casual Dining,Italian,3.7,4382,674,Yes,Yes
+Hotel Place 627,Delhi,Karol Bagh,Quick Bites,Chinese,4.1,3164,360,Yes,No
+Restaurant Corner 628,Chennai,Anna Nagar,Sweet Shop,Chinese,3.7,258,124,Yes,No
+Urban Point 629,Bangalore,Koramangala,Food Court,Italian,3.8,333,356,Yes,No
+Cafe Bites 630,Mumbai,Andheri,Food Court,Pizza,3.5,2596,477,No,No
+Restaurant Place 631,Hyderabad,Banjara Hills,Casual Dining,Seafood,,2835,610,Yes,No
+Golden Place 632,Pune,Koregaon Park,Delivery,Desserts,3.2,3049,314,No,Yes
+Golden House 633,Delhi,Dwarka,Dhaba,Chinese,3.4,1425,254,Yes,No
+Golden Grill 634,Delhi,Lajpat Nagar,Casual Dining,Seafood,3.5,3406,951,Yes,No
+Spice Place 635,Bangalore,HSR Layout,Sweet Shop,South Indian,4.0,2897,273,Yes,Yes
+Golden Garden 636,Delhi,Karol Bagh,Casual Dining,Mughlai,3.2,659,425,Yes,Yes
+Hotel Place 637,Delhi,Lajpat Nagar,Cafe,Cafe,3.8,764,226,Yes,No
+Golden Garden 638,Mumbai,Colaba,Bakery,North Indian,3.8,1803,289,No,No
+Restaurant House 639,Mumbai,Powai,Delivery,Chinese,3.4,2976,182,No,No
+Green Corner 640,Mumbai,Juhu,Bar,Italian,3.9,4516,1481,Yes,No
+The Garden 641,Bangalore,BTM Layout,Bar,Mughlai,3.2,3431,1212,Yes,Yes
+Green Grill 642,Mumbai,Juhu,Delivery,Fast Food,3.1,259,266,No,Yes
+Golden Place 643,Bangalore,HSR Layout,Sweet Shop,Beverages,3.7,3828,237,Yes,No
+Cafe Garden 644,Mumbai,Powai,Cafe,Biryani,2.9,1881,368,Yes,Yes
+The Bites 645,Bangalore,Koramangala,Cafe,Italian,2.6,2762,488,Yes,No
+Spice Kitchen 646,Pune,Koregaon Park,Quick Bites,Desserts,4.0,2629,328,No,No
+Green Kitchen 647,Delhi,Connaught Place,Bakery,Beverages,,4126,196,Yes,Yes
+Golden Place 648,Hyderabad,Banjara Hills,Food Court,Beverages,3.5,3009,165,Yes,No
+Hotel Bites 649,Chennai,Adyar,Fine Dining,South Indian,3.4,4521,1990,No,Yes
+The Hub 650,Delhi,Hauz Khas,Sweet Shop,Biryani,4.2,3739,184,Yes,No
+Restaurant Kitchen 651,Bangalore,BTM Layout,Fine Dining,Cafe,3.1,1249,2761,Yes,Yes
+The Corner 652,Delhi,Hauz Khas,Fine Dining,Cafe,3.0,1013,1723,Yes,No
+Cafe Corner 653,Delhi,Hauz Khas,Delivery,Pizza,4.1,4319,171,No,No
+Urban Place 654,Chennai,Velachery,Bar,Seafood,3.7,1515,2468,Yes,No
+Golden Corner 655,Delhi,Connaught Place,Bar,Continental,4.2,1964,905,No,No
+The Point 656,Bangalore,HSR Layout,Food Court,Beverages,2.6,2513,369,No,Yes
+Green House 657,Mumbai,Bandra,Delivery,Pizza,3.0,4763,472,Yes,No
+Green House 658,Mumbai,Bandra,Fine Dining,Desserts,3.7,2687,2164,No,No
+Green Lounge 659,Hyderabad,Jubilee Hills,Dhaba,Seafood,3.9,994,276,Yes,No
+Restaurant Garden 660,Delhi,Karol Bagh,Bar,Beverages,4.1,4289,2105,Yes,Yes
+Cafe Bites 661,Mumbai,Bandra,Sweet Shop,Mughlai,3.8,259,182,Yes,No
+Cafe Hub 662,Ahmedabad,Satellite,Sweet Shop,Biryani,3.8,4168,71,Yes,Yes
+Silver Grill 663,Hyderabad,Secunderabad,Quick Bites,Continental,,4716,368,Yes,No
+Silver House 664,Mumbai,Bandra,Casual Dining,Fast Food,4.5,4974,811,Yes,Yes
+Silver Point 665,Bangalore,Indiranagar,Dhaba,South Indian,3.1,4457,260,Yes,No
+Restaurant Place 666,Bangalore,Indiranagar,Bar,Biryani,3.9,260,2442,No,No
+Silver Corner 667,Mumbai,Juhu,Cafe,Pizza,3.2,1012,478,Yes,No
+Spice Hub 668,Bangalore,Whitefield,Bar,North Indian,4.0,1760,817,No,No
+Restaurant Grill 669,Bangalore,Indiranagar,Quick Bites,Street Food,3.2,2576,341,Yes,Yes
+Cafe Kitchen 670,Mumbai,Juhu,Sweet Shop,Continental,4.1,3913,166,Yes,No
+Royal Place 671,Bangalore,BTM Layout,Fine Dining,Continental,,3002,1997,Yes,Yes
+Cafe Point 672,Pune,Baner,Cafe,Desserts,4.6,2808,481,Yes,No
+Royal Lounge 673,Bangalore,BTM Layout,Delivery,South Indian,3.6,3770,243,Yes,No
+Cafe Corner 674,Delhi,Connaught Place,Bakery,Chinese,3.9,4384,304,No,No
+Cafe Lounge 675,Mumbai,Colaba,Fine Dining,Cafe,3.3,3388,1750,No,No
+Cafe Place 676,Ahmedabad,Navrangpura,Bakery,Cafe,3.6,103,253,No,No
+Cafe Corner 677,Bangalore,Whitefield,Dhaba,North Indian,3.8,201,275,Yes,No
+Golden Lounge 678,Mumbai,Bandra,Casual Dining,Mughlai,2.9,2534,1152,No,Yes
+Urban House 679,Ahmedabad,Navrangpura,Cafe,Desserts,3.0,882,621,Yes,No
+Cafe Grill 680,Pune,Hinjewadi,Food Court,Mughlai,,1873,283,Yes,No
+Cafe Lounge 681,Chennai,T Nagar,Cafe,Fast Food,3.6,2670,245,No,No
+Royal Corner 682,Mumbai,Colaba,Bar,Seafood,3.4,1393,849,Yes,Yes
+Hotel House 683,Bangalore,Whitefield,Sweet Shop,Biryani,3.3,2420,215,Yes,No
+Green House 684,Hyderabad,Jubilee Hills,Bar,Street Food,3.4,574,905,Yes,No
+Urban Garden 685,Kolkata,Howrah,Bar,Italian,,2642,2039,Yes,Yes
+Urban Kitchen 686,Delhi,Connaught Place,Dhaba,Chinese,3.9,1070,245,No,No
+Hotel Garden 687,Delhi,Karol Bagh,Fine Dining,Pizza,2.7,426,2648,Yes,No
+Hotel Corner 688,Mumbai,Andheri,Food Court,Beverages,4.4,2888,221,No,No
+Golden Grill 689,Chennai,Adyar,Food Court,Italian,4.4,1209,479,Yes,No
+The Place 690,Bangalore,Indiranagar,Bar,Seafood,2.5,549,1245,Yes,No
+Royal Kitchen 691,Mumbai,Powai,Bakery,Italian,4.2,4171,285,Yes,Yes
+The Point 692,Delhi,Connaught Place,Dhaba,Desserts,4.2,3644,169,Yes,No
+Golden Bites 693,Delhi,Dwarka,Bar,Beverages,3.7,1228,949,Yes,Yes
+Golden Lounge 694,Mumbai,Juhu,Casual Dining,Continental,3.1,3177,645,No,No
+Green Corner 695,Bangalore,HSR Layout,Sweet Shop,North Indian,4.2,772,55,No,No
+Urban House 696,Hyderabad,Hitech City,Fine Dining,Cafe,3.6,3662,2761,No,No
+Cafe Lounge 697,Mumbai,Juhu,Delivery,Fast Food,,659,522,No,No
+Hotel Hub 698,Delhi,Hauz Khas,Casual Dining,Mughlai,4.8,2451,1051,No,Yes
+Royal Kitchen 699,Bangalore,HSR Layout,Bakery,Street Food,3.8,225,198,Yes,No
+Hotel House 700,Delhi,Lajpat Nagar,Cafe,Desserts,3.2,3671,597,No,No
+Golden Garden 701,Delhi,Hauz Khas,Cafe,North Indian,3.5,4282,477,Yes,Yes
+Restaurant Kitchen 702,Bangalore,HSR Layout,Casual Dining,Continental,3.3,4407,962,Yes,No
+Green Bites 703,Mumbai,Powai,Bar,Pizza,3.9,2574,2486,Yes,No
+Green Garden 704,Bangalore,BTM Layout,Delivery,Fast Food,3.3,1018,531,Yes,No
+Green Garden 705,Bangalore,Whitefield,Quick Bites,Desserts,3.5,2056,203,Yes,Yes
+Spice Lounge 706,Ahmedabad,Satellite,Quick Bites,Continental,,3990,188,No,No
+Silver Place 707,Mumbai,Bandra,Bakery,Street Food,3.6,4948,240,Yes,Yes
+Green Corner 708,Chennai,Anna Nagar,Bar,Cafe,,4904,1524,Yes,Yes
+Green Point 709,Mumbai,Bandra,Food Court,Cafe,2.5,4315,382,Yes,No
+Urban Bites 710,Hyderabad,Jubilee Hills,Food Court,Desserts,3.8,3024,332,Yes,Yes
+Golden Corner 711,Chennai,Nungambakkam,Fine Dining,Cafe,3.7,3686,1450,Yes,Yes
+Royal Hub 712,Delhi,Connaught Place,Delivery,North Indian,3.3,1448,108,Yes,No
+The Bites 713,Delhi,Karol Bagh,Delivery,North Indian,4.7,4201,178,Yes,No
+The Place 714,Mumbai,Andheri,Cafe,Mughlai,4.2,3015,251,Yes,Yes
+Hotel Lounge 715,Mumbai,Colaba,Dhaba,Desserts,,577,229,No,Yes
+The House 716,Kolkata,Howrah,Bakery,Mughlai,4.1,1337,368,No,No
+Green Garden 717,Pune,Hinjewadi,Quick Bites,Desserts,4.3,4758,325,Yes,No
+The Kitchen 718,Ahmedabad,Vastrapur,Bakery,Pizza,3.8,4007,150,Yes,No
+Hotel Place 719,Bangalore,HSR Layout,Food Court,Desserts,3.9,3139,335,Yes,Yes
+Green Point 720,Chennai,T Nagar,Food Court,Street Food,3.9,4091,183,No,Yes
+Hotel Corner 721,Kolkata,Ballygunge,Casual Dining,Seafood,,230,1141,Yes,Yes
+Hotel House 722,Bangalore,Whitefield,Fine Dining,Fast Food,3.6,4205,1330,Yes,Yes
+Golden House 723,Bangalore,Indiranagar,Delivery,South Indian,3.6,2002,589,No,No
+Hotel Lounge 724,Chennai,T Nagar,Sweet Shop,Beverages,4.4,776,169,Yes,Yes
+Urban Lounge 725,Delhi,Connaught Place,Bakery,South Indian,3.9,4529,346,Yes,No
+Restaurant Point 726,Pune,Baner,Food Court,Continental,3.6,438,341,Yes,No
+Restaurant Bites 727,Bangalore,Whitefield,Dhaba,Cafe,3.7,3104,340,No,No
+Silver Garden 728,Chennai,Velachery,Cafe,Fast Food,4.2,2734,602,No,No
+Cafe Grill 729,Bangalore,Indiranagar,Quick Bites,Italian,3.6,3412,309,No,No
+The Lounge 730,Bangalore,Indiranagar,Fine Dining,Seafood,3.4,3145,1814,Yes,No
+Golden Bites 731,Bangalore,BTM Layout,Dhaba,North Indian,3.6,870,172,Yes,No
+Urban Lounge 732,Chennai,T Nagar,Fine Dining,Biryani,4.2,2798,2595,No,No
+Cafe Point 733,Hyderabad,Hitech City,Casual Dining,Chinese,3.9,2916,859,No,No
+Royal House 734,Delhi,Lajpat Nagar,Sweet Shop,Pizza,3.7,2420,182,Yes,No
+Restaurant Bites 735,Mumbai,Juhu,Food Court,Cafe,3.8,255,472,No,No
+Hotel Corner 736,Pune,Hinjewadi,Cafe,Cafe,3.4,4956,338,Yes,No
+Hotel Lounge 737,Mumbai,Powai,Dhaba,Street Food,3.6,3762,220,Yes,No
+Silver Garden 738,Chennai,Velachery,Fine Dining,Cafe,3.4,4661,1805,No,No
+Royal House 739,Delhi,Lajpat Nagar,Delivery,North Indian,3.6,923,551,Yes,Yes
+Royal Grill 740,Mumbai,Andheri,Casual Dining,North Indian,,1178,528,No,Yes
+Urban Corner 741,Delhi,Lajpat Nagar,Delivery,Chinese,3.2,3208,190,Yes,No
+Restaurant Bites 742,Mumbai,Powai,Cafe,Beverages,3.4,437,291,Yes,Yes
+Urban Grill 743,Chennai,T Nagar,Dhaba,Desserts,3.1,840,162,No,No
+The Bites 744,Delhi,Lajpat Nagar,Casual Dining,Italian,3.0,2251,428,No,Yes
+Silver Hub 745,Mumbai,Colaba,Dhaba,Fast Food,3.6,2267,309,Yes,No
+Green Garden 746,Pune,Viman Nagar,Food Court,Cafe,,902,161,Yes,No
+Royal Kitchen 747,Mumbai,Andheri,Bar,South Indian,4.6,3637,1132,Yes,No
+Cafe House 748,Delhi,Karol Bagh,Casual Dining,Mughlai,3.6,4572,696,Yes,No
+Hotel Kitchen 749,Kolkata,Salt Lake,Delivery,Street Food,4.3,3820,229,No,No
+Green Corner 750,Hyderabad,Hitech City,Cafe,Street Food,4.2,251,492,No,No
+Restaurant Hub 751,Bangalore,Indiranagar,Sweet Shop,Beverages,3.6,2434,222,Yes,No
+Restaurant Kitchen 752,Kolkata,New Town,Food Court,South Indian,,995,357,Yes,Yes
+Silver Kitchen 753,Hyderabad,Gachibowli,Bar,Continental,3.8,3315,1743,Yes,No
+The Kitchen 754,Mumbai,Bandra,Sweet Shop,South Indian,4.5,931,73,No,No
+Restaurant Kitchen 755,Bangalore,Whitefield,Quick Bites,Seafood,4.4,3443,198,Yes,No
+Cafe House 756,Chennai,Adyar,Food Court,Continental,3.9,2612,288,Yes,No
+Urban Bites 757,Hyderabad,Secunderabad,Cafe,Biryani,4.1,1079,513,Yes,No
+Green Corner 758,Delhi,Karol Bagh,Fine Dining,Mughlai,4.0,4027,2397,Yes,Yes
+Golden Garden 759,Pune,Baner,Casual Dining,Street Food,3.1,3804,428,Yes,Yes
+Restaurant Garden 760,Chennai,Nungambakkam,Dhaba,South Indian,,4789,262,Yes,No
+Restaurant Corner 761,Bangalore,HSR Layout,Cafe,Biryani,,3156,695,No,No
+Golden Grill 762,Mumbai,Juhu,Casual Dining,Desserts,4.5,3443,1054,No,No
+Hotel Bites 763,Mumbai,Bandra,Sweet Shop,Pizza,3.3,4578,109,No,No
+The Kitchen 764,Chennai,T Nagar,Dhaba,Fast Food,4.0,3496,194,Yes,No
+Hotel Corner 765,Bangalore,Whitefield,Bakery,Biryani,3.8,711,141,Yes,No
+Golden Bites 766,Delhi,Lajpat Nagar,Delivery,Beverages,3.6,3069,588,Yes,No
+Urban Kitchen 767,Chennai,Velachery,Quick Bites,Seafood,,758,398,Yes,Yes
+Cafe Garden 768,Pune,Baner,Food Court,Fast Food,,592,357,No,Yes
+Spice Point 769,Mumbai,Andheri,Cafe,South Indian,,1339,529,Yes,Yes
+Cafe Kitchen 770,Pune,Koregaon Park,Quick Bites,Italian,4.4,1852,291,Yes,Yes
+Urban Garden 771,Bangalore,Whitefield,Fine Dining,Desserts,4.1,3939,2895,No,Yes
+Green Point 772,Pune,Viman Nagar,Casual Dining,Biryani,3.9,3931,463,No,Yes
+Cafe Point 773,Bangalore,Koramangala,Casual Dining,Mughlai,,3322,1154,Yes,No
+Royal Hub 774,Mumbai,Colaba,Cafe,South Indian,4.3,4025,457,Yes,No
+Urban Bites 775,Chennai,T Nagar,Bar,Cafe,3.7,3160,2487,Yes,No
+Green Hub 776,Bangalore,HSR Layout,Bar,North Indian,3.1,4307,2038,Yes,Yes
+Urban House 777,Mumbai,Colaba,Bakery,Biryani,,2203,265,Yes,No
+Golden House 778,Chennai,T Nagar,Delivery,Mughlai,4.2,169,130,Yes,No
+Restaurant Hub 779,Chennai,Anna Nagar,Dhaba,Seafood,3.4,2003,214,No,Yes
+Green House 780,Hyderabad,Jubilee Hills,Fine Dining,Pizza,3.2,3062,2455,Yes,No
+Green Point 781,Hyderabad,Hitech City,Quick Bites,Cafe,3.3,2089,381,Yes,Yes
+Urban Place 782,Delhi,Karol Bagh,Bar,Pizza,3.4,4433,2364,Yes,No
+Royal Point 783,Mumbai,Colaba,Bakery,South Indian,4.1,407,294,Yes,No
+Urban Lounge 784,Mumbai,Colaba,Bakery,North Indian,3.6,418,355,No,No
+Restaurant Bites 785,Bangalore,HSR Layout,Cafe,Biryani,3.0,49,480,Yes,No
+Green Hub 786,Kolkata,Park Street,Fine Dining,Biryani,3.7,4162,2527,Yes,No
+Restaurant House 787,Delhi,Karol Bagh,Sweet Shop,Italian,3.8,2472,114,Yes,No
+Spice Bites 788,Mumbai,Bandra,Dhaba,Street Food,3.5,872,280,No,No
+Urban Lounge 789,Delhi,Hauz Khas,Delivery,Italian,4.3,23,422,Yes,Yes
+Royal House 790,Kolkata,Park Street,Food Court,Beverages,,369,495,No,Yes
+Green Point 791,Bangalore,Koramangala,Cafe,South Indian,,3837,601,Yes,No
+Spice Garden 792,Delhi,Karol Bagh,Dhaba,South Indian,4.0,584,236,Yes,No
+Hotel Kitchen 793,Delhi,Dwarka,Food Court,North Indian,4.2,550,443,Yes,No
+Golden Hub 794,Hyderabad,Secunderabad,Food Court,Italian,3.2,4155,236,No,Yes
+Hotel House 795,Bangalore,HSR Layout,Fine Dining,Mughlai,3.7,4878,2372,No,No
+Urban Bites 796,Pune,Hinjewadi,Fine Dining,Mughlai,3.7,3044,1960,Yes,Yes
+Hotel Garden 797,Kolkata,Howrah,Quick Bites,North Indian,,4142,382,Yes,No
+Green Kitchen 798,Delhi,Hauz Khas,Bakery,Desserts,4.3,4049,297,Yes,No
+Restaurant Kitchen 799,Hyderabad,Gachibowli,Dhaba,Street Food,3.3,4331,346,Yes,No
+Cafe Point 800,Kolkata,Ballygunge,Cafe,Mughlai,,457,243,Yes,Yes
+Royal Hub 801,Hyderabad,Jubilee Hills,Casual Dining,Continental,3.2,3966,755,No,No
+Cafe Grill 802,Bangalore,Indiranagar,Cafe,Beverages,4.1,1386,227,No,No
+Golden Hub 803,Delhi,Dwarka,Quick Bites,Fast Food,2.9,1472,116,Yes,No
+Royal Grill 804,Hyderabad,Hitech City,Delivery,North Indian,4.0,2743,226,Yes,No
+Spice Bites 805,Delhi,Hauz Khas,Bakery,North Indian,4.2,1221,267,No,No
+Urban Place 806,Chennai,Adyar,Casual Dining,Chinese,4.0,885,905,No,No
+Green Garden 807,Kolkata,Park Street,Bar,Beverages,,3819,1698,Yes,No
+Green Bites 808,Kolkata,Ballygunge,Delivery,Cafe,4.1,3154,175,Yes,No
+Hotel Corner 809,Delhi,Dwarka,Fine Dining,Cafe,3.2,89,1430,Yes,No
+Silver Kitchen 810,Bangalore,Whitefield,Food Court,Continental,4.4,4149,353,Yes,No
+Urban Garden 811,Ahmedabad,Satellite,Bar,Italian,3.5,1173,1761,Yes,Yes
+Green Corner 812,Pune,Koregaon Park,Cafe,Beverages,3.7,4169,447,Yes,No
+Restaurant Grill 813,Bangalore,Whitefield,Cafe,Desserts,3.5,3134,501,Yes,No
+Hotel House 814,Kolkata,Park Street,Fine Dining,South Indian,,3650,1925,Yes,Yes
+Golden Hub 815,Pune,Baner,Quick Bites,South Indian,3.4,2531,314,Yes,No
+Cafe Lounge 816,Delhi,Hauz Khas,Dhaba,Pizza,3.7,2872,257,Yes,Yes
+The House 817,Delhi,Karol Bagh,Bar,Continental,3.1,3521,868,No,No
+Cafe Point 818,Mumbai,Bandra,Bar,North Indian,4.3,3372,1192,No,No
+Restaurant Lounge 819,Bangalore,Whitefield,Sweet Shop,Continental,4.0,2199,134,Yes,No
+Restaurant Lounge 820,Mumbai,Colaba,Delivery,Continental,3.6,3560,366,Yes,No
+Spice Lounge 821,Chennai,Velachery,Bakery,Seafood,3.5,450,168,No,No
+Hotel Corner 822,Bangalore,HSR Layout,Delivery,Continental,4.0,3631,198,Yes,No
+Hotel Bites 823,Mumbai,Bandra,Dhaba,Cafe,3.3,4021,190,Yes,Yes
+Hotel Grill 824,Mumbai,Bandra,Cafe,Seafood,3.8,3880,696,Yes,Yes
+Green House 825,Delhi,Karol Bagh,Cafe,Continental,4.3,3342,649,Yes,Yes
+Hotel Place 826,Kolkata,Salt Lake,Cafe,Street Food,3.3,266,415,Yes,No
+Spice House 827,Mumbai,Colaba,Sweet Shop,Fast Food,3.9,1853,208,No,Yes
+Golden Point 828,Mumbai,Juhu,Cafe,South Indian,3.9,4997,360,Yes,Yes
+Urban Point 829,Chennai,Nungambakkam,Dhaba,Seafood,3.7,4030,266,Yes,No
+Spice House 830,Delhi,Lajpat Nagar,Fine Dining,Pizza,3.4,2271,2829,No,No
+Urban Kitchen 831,Mumbai,Andheri,Bakery,Beverages,4.3,96,273,Yes,No
+Royal Point 832,Delhi,Karol Bagh,Dhaba,Fast Food,3.4,4227,264,Yes,Yes
+Urban Bites 833,Bangalore,Koramangala,Bakery,Pizza,2.8,4180,214,Yes,Yes
+Urban Garden 834,Bangalore,Whitefield,Dhaba,Chinese,4.0,3314,319,Yes,No
+Spice House 835,Delhi,Hauz Khas,Cafe,Pizza,,987,643,Yes,No
+The Bites 836,Mumbai,Bandra,Fine Dining,South Indian,4.0,3448,1230,Yes,No
+Urban Place 837,Kolkata,New Town,Bar,South Indian,4.4,2538,2346,Yes,No
+Hotel Lounge 838,Mumbai,Powai,Delivery,Seafood,4.0,698,442,No,No
+Green Point 839,Delhi,Dwarka,Food Court,Continental,4.2,4125,279,Yes,Yes
+Royal Lounge 840,Hyderabad,Gachibowli,Fine Dining,Biryani,4.7,160,1816,Yes,No
+Cafe Hub 841,Bangalore,HSR Layout,Bar,Chinese,4.2,3593,1338,Yes,No
+The Bites 842,Hyderabad,Jubilee Hills,Quick Bites,Seafood,3.9,1817,326,Yes,No
+The House 843,Bangalore,BTM Layout,Dhaba,Street Food,4.5,4119,101,Yes,No
+Restaurant Lounge 844,Ahmedabad,Navrangpura,Quick Bites,North Indian,4.6,1412,200,No,No
+Spice Point 845,Bangalore,Whitefield,Bar,Mughlai,4.6,1221,2356,Yes,Yes
+Hotel Garden 846,Mumbai,Bandra,Fine Dining,Beverages,3.5,1415,2281,Yes,No
+Hotel Bites 847,Bangalore,Whitefield,Dhaba,Pizza,3.0,3502,232,No,No
+Green Kitchen 848,Ahmedabad,Vastrapur,Food Court,Biryani,3.4,4377,329,Yes,No
+Golden Corner 849,Delhi,Lajpat Nagar,Cafe,Continental,4.1,4845,628,Yes,No
+Silver House 850,Delhi,Dwarka,Dhaba,Cafe,3.8,556,184,No,No
+Hotel Garden 851,Bangalore,HSR Layout,Dhaba,North Indian,3.6,3399,192,No,No
+Golden Hub 852,Chennai,Anna Nagar,Fine Dining,Desserts,4.0,1181,2243,No,No
+Restaurant Place 853,Bangalore,HSR Layout,Fine Dining,Italian,3.0,4739,2478,Yes,Yes
+Spice Hub 854,Pune,Viman Nagar,Bar,Biryani,3.8,4337,2140,Yes,No
+Cafe Bites 855,Bangalore,Whitefield,Casual Dining,Cafe,4.3,1002,437,No,Yes
+Spice Kitchen 856,Bangalore,BTM Layout,Dhaba,Chinese,4.0,4081,247,Yes,No
+Green Lounge 857,Bangalore,Koramangala,Delivery,Desserts,4.0,2736,597,Yes,No
+Silver Bites 858,Delhi,Karol Bagh,Dhaba,Seafood,4.5,3942,124,No,No
+Golden Bites 859,Delhi,Lajpat Nagar,Bar,Continental,3.7,4057,2209,Yes,No
+Urban Point 860,Bangalore,Indiranagar,Bakery,North Indian,3.4,377,220,No,No
+Royal Corner 861,Chennai,Adyar,Quick Bites,North Indian,4.3,2253,125,Yes,Yes
+The House 862,Delhi,Karol Bagh,Cafe,North Indian,4.3,853,653,Yes,No
+Urban Kitchen 863,Delhi,Connaught Place,Casual Dining,Chinese,4.0,2561,1080,Yes,Yes
+The Garden 864,Delhi,Dwarka,Food Court,Desserts,3.6,2327,472,No,No
+Restaurant Grill 865,Mumbai,Colaba,Food Court,Pizza,3.7,508,374,Yes,No
+Spice Hub 866,Delhi,Connaught Place,Food Court,Italian,,3194,150,Yes,No
+Silver Place 867,Bangalore,Whitefield,Fine Dining,Street Food,4.3,707,2018,No,No
+Silver Grill 868,Bangalore,Indiranagar,Food Court,Chinese,4.2,3630,410,No,Yes
+Spice Place 869,Pune,Hinjewadi,Cafe,Mughlai,3.0,319,212,No,Yes
+Spice Hub 870,Kolkata,Howrah,Quick Bites,Beverages,4.1,2381,147,Yes,No
+Silver House 871,Mumbai,Bandra,Food Court,Beverages,3.9,1045,462,Yes,No
+The Place 872,Mumbai,Powai,Dhaba,Italian,3.2,4383,214,No,Yes
+Spice Kitchen 873,Hyderabad,Secunderabad,Dhaba,South Indian,3.1,2995,134,Yes,No
+Royal Place 874,Mumbai,Powai,Fine Dining,Beverages,3.9,262,1531,Yes,No
+Silver Corner 875,Bangalore,Koramangala,Cafe,Continental,3.5,579,293,Yes,Yes
+The Place 876,Bangalore,Koramangala,Quick Bites,Chinese,4.6,4674,360,No,No
+Restaurant Hub 877,Hyderabad,Secunderabad,Casual Dining,Cafe,4.2,1557,1189,Yes,Yes
+The Hub 878,Hyderabad,Hitech City,Bar,Italian,3.9,4523,2028,No,No
+Green Lounge 879,Bangalore,Whitefield,Quick Bites,Mughlai,4.0,762,284,Yes,No
+Royal Corner 880,Mumbai,Powai,Bar,South Indian,4.4,2815,1486,Yes,No
+Restaurant Garden 881,Mumbai,Andheri,Bakery,Pizza,4.1,1109,168,Yes,No
+Urban Garden 882,Hyderabad,Secunderabad,Bar,Desserts,3.9,4529,2295,Yes,Yes
+Royal Bites 883,Bangalore,Koramangala,Delivery,Cafe,,3464,203,Yes,No
+Spice Grill 884,Bangalore,Whitefield,Dhaba,Seafood,4.9,3997,345,Yes,No
+Urban House 885,Chennai,T Nagar,Cafe,Italian,3.1,208,360,Yes,Yes
+The Garden 886,Bangalore,Whitefield,Sweet Shop,Continental,3.5,2780,249,No,No
+Royal Corner 887,Hyderabad,Gachibowli,Fine Dining,Desserts,,2337,1415,No,No
+Green Grill 888,Mumbai,Andheri,Delivery,Cafe,4.0,1997,533,No,No
+Royal Place 889,Bangalore,BTM Layout,Bar,South Indian,3.8,2248,1011,Yes,No
+Cafe Hub 890,Mumbai,Powai,Food Court,Cafe,4.1,311,165,Yes,Yes
+Cafe Grill 891,Chennai,Nungambakkam,Cafe,Desserts,2.8,1692,697,Yes,Yes
+Silver Bites 892,Pune,Hinjewadi,Delivery,Fast Food,,4114,471,No,No
+Golden Kitchen 893,Pune,Baner,Fine Dining,Street Food,3.3,1865,1531,No,Yes
+Spice Kitchen 894,Mumbai,Andheri,Dhaba,Biryani,3.6,1966,304,No,No
+Spice Point 895,Hyderabad,Hitech City,Cafe,Pizza,4.2,727,564,Yes,No
+Green Point 896,Bangalore,BTM Layout,Fine Dining,Beverages,3.8,784,1750,Yes,No
+Cafe Point 897,Mumbai,Juhu,Bakery,South Indian,3.9,533,188,Yes,No
+Spice Kitchen 898,Pune,Viman Nagar,Bakery,Desserts,4.1,4898,355,Yes,No
+Urban Garden 899,Bangalore,BTM Layout,Fine Dining,Street Food,,348,2191,Yes,No
+Spice Kitchen 900,Bangalore,Koramangala,Delivery,Street Food,3.5,3791,353,No,No
+The Garden 901,Bangalore,Indiranagar,Cafe,Seafood,3.6,3687,415,Yes,Yes
+Silver Corner 902,Bangalore,Whitefield,Delivery,Cafe,3.8,213,467,Yes,No
+Silver Place 903,Bangalore,Whitefield,Casual Dining,Biryani,3.3,4741,571,Yes,No
+The Hub 904,Delhi,Hauz Khas,Bar,Street Food,4.2,3411,1448,No,Yes
+Restaurant Lounge 905,Delhi,Karol Bagh,Casual Dining,Biryani,3.8,1316,897,Yes,No
+Cafe Place 906,Pune,Viman Nagar,Bakery,Cafe,3.7,2304,277,No,Yes
+Green Bites 907,Chennai,Anna Nagar,Dhaba,Desserts,4.3,3341,176,No,No
+Hotel Hub 908,Mumbai,Andheri,Quick Bites,Continental,3.6,1952,287,Yes,No
+Cafe Garden 909,Mumbai,Powai,Bar,Fast Food,3.6,924,1306,Yes,Yes
+Restaurant Corner 910,Mumbai,Powai,Bakery,Street Food,3.5,2049,114,Yes,No
+Royal Place 911,Delhi,Lajpat Nagar,Delivery,Chinese,3.9,423,391,Yes,No
+Golden Hub 912,Mumbai,Colaba,Delivery,Fast Food,3.9,1754,596,No,Yes
+Silver House 913,Hyderabad,Gachibowli,Delivery,Cafe,3.4,2847,418,No,No
+The Bites 914,Mumbai,Andheri,Dhaba,Seafood,3.6,1104,168,Yes,No
+Green Place 915,Delhi,Karol Bagh,Casual Dining,Pizza,3.4,3397,613,Yes,No
+Green Bites 916,Delhi,Dwarka,Quick Bites,Chinese,3.3,2777,307,Yes,No
+Restaurant Kitchen 917,Mumbai,Bandra,Delivery,South Indian,2.8,2485,268,Yes,No
+Urban House 918,Kolkata,Salt Lake,Sweet Shop,Beverages,,1550,123,Yes,No
+Green Hub 919,Chennai,Velachery,Bar,Seafood,,1075,2103,Yes,Yes
+Golden Grill 920,Bangalore,BTM Layout,Cafe,Fast Food,3.5,1855,665,Yes,No
+Spice Garden 921,Pune,Hinjewadi,Sweet Shop,Cafe,3.4,4203,98,No,No
+Royal Place 922,Delhi,Karol Bagh,Quick Bites,Fast Food,4.2,2944,245,Yes,No
+Green Garden 923,Pune,Koregaon Park,Dhaba,Beverages,3.2,1908,106,Yes,Yes
+Royal House 924,Chennai,Anna Nagar,Quick Bites,Street Food,3.3,683,103,Yes,No
+Urban Point 925,Delhi,Karol Bagh,Cafe,Seafood,3.5,993,289,No,No
+Hotel Corner 926,Bangalore,Whitefield,Bar,Desserts,,2480,1252,Yes,No
+Hotel Point 927,Mumbai,Powai,Cafe,Chinese,4.4,1612,259,Yes,No
+The Kitchen 928,Delhi,Karol Bagh,Fine Dining,Mughlai,3.1,2874,2534,Yes,No
+Royal Place 929,Hyderabad,Hitech City,Bar,Italian,3.5,1507,1327,No,No
+Golden House 930,Mumbai,Powai,Quick Bites,Fast Food,3.9,1794,326,Yes,No
+Royal Lounge 931,Bangalore,Indiranagar,Delivery,Beverages,,1430,573,No,No
+The Garden 932,Pune,Hinjewadi,Quick Bites,South Indian,3.5,2445,128,No,No
+Golden Grill 933,Ahmedabad,Satellite,Quick Bites,South Indian,2.7,2047,250,No,No
+Hotel Bites 934,Delhi,Dwarka,Bar,North Indian,3.6,1283,1556,Yes,Yes
+Restaurant Place 935,Bangalore,Koramangala,Fine Dining,Seafood,4.4,2599,1981,Yes,No
+Hotel Bites 936,Mumbai,Powai,Quick Bites,Fast Food,3.8,4694,178,Yes,No
+The Grill 937,Bangalore,HSR Layout,Sweet Shop,Italian,3.8,2441,226,No,Yes
+Silver Garden 938,Kolkata,Ballygunge,Bakery,Continental,3.2,3808,388,Yes,No
+Golden Lounge 939,Bangalore,HSR Layout,Food Court,Beverages,3.1,2210,302,Yes,No
+Hotel Lounge 940,Delhi,Hauz Khas,Food Court,Street Food,3.7,1032,426,No,No
+Spice Lounge 941,Mumbai,Powai,Quick Bites,Biryani,3.0,3544,378,Yes,No
+Urban Lounge 942,Delhi,Dwarka,Sweet Shop,Desserts,4.1,3488,106,Yes,Yes
+Urban Hub 943,Hyderabad,Secunderabad,Delivery,Italian,,2246,590,Yes,Yes
+Spice Bites 944,Pune,Baner,Dhaba,Biryani,3.7,2770,308,Yes,No
+Spice Point 945,Bangalore,Koramangala,Dhaba,Seafood,2.8,1178,285,No,Yes
+Restaurant Bites 946,Bangalore,Koramangala,Bar,Biryani,3.5,3235,1197,Yes,No
+Silver Grill 947,Bangalore,Whitefield,Food Court,Mughlai,3.1,3355,242,Yes,No
+Golden Hub 948,Kolkata,Howrah,Quick Bites,North Indian,2.5,4916,375,Yes,No
+Green Point 949,Pune,Viman Nagar,Dhaba,Italian,4.0,408,257,No,No
+Green Point 950,Delhi,Karol Bagh,Quick Bites,Seafood,4.5,4993,374,No,No
+Green Kitchen 951,Hyderabad,Secunderabad,Bar,Italian,4.3,2730,2182,Yes,No
+Royal Hub 952,Hyderabad,Banjara Hills,Food Court,Mughlai,4.0,3387,226,Yes,Yes
+Green Grill 953,Bangalore,Indiranagar,Cafe,Fast Food,3.5,4168,665,Yes,No
+The Bites 954,Kolkata,Ballygunge,Bakery,Fast Food,4.1,92,250,No,No
+Cafe Corner 955,Mumbai,Andheri,Bakery,Fast Food,4.3,1163,337,Yes,Yes
+Royal Bites 956,Mumbai,Powai,Dhaba,Pizza,3.8,4278,132,No,No
+Green Hub 957,Delhi,Lajpat Nagar,Bakery,Biryani,3.1,2862,330,Yes,Yes
+Urban House 958,Bangalore,Indiranagar,Cafe,Pizza,3.5,1386,687,Yes,No
+The House 959,Bangalore,Indiranagar,Quick Bites,North Indian,4.6,4686,117,Yes,Yes
+Restaurant Point 960,Chennai,Anna Nagar,Bar,Desserts,3.7,2069,1896,No,Yes
+Restaurant House 961,Bangalore,BTM Layout,Cafe,Mughlai,2.5,2379,616,Yes,Yes
+Cafe Place 962,Hyderabad,Jubilee Hills,Bar,Seafood,3.0,322,816,No,No
+Urban House 963,Mumbai,Powai,Bar,Italian,3.5,1507,2354,Yes,No
+Royal Grill 964,Mumbai,Bandra,Food Court,Street Food,4.2,2047,368,Yes,No
+Urban Garden 965,Mumbai,Powai,Quick Bites,Seafood,3.6,4603,219,Yes,No
+Hotel House 966,Mumbai,Bandra,Sweet Shop,Biryani,4.2,2027,150,No,No
+Silver Lounge 967,Hyderabad,Banjara Hills,Bakery,Pizza,3.4,123,133,Yes,Yes
+Golden Garden 968,Mumbai,Colaba,Sweet Shop,Pizza,2.7,714,133,No,No
+Restaurant Corner 969,Delhi,Dwarka,Food Court,Cafe,3.5,3562,345,No,No
+Cafe House 970,Delhi,Lajpat Nagar,Bar,Pizza,3.9,4145,1641,No,No
+Spice House 971,Hyderabad,Gachibowli,Dhaba,Desserts,3.8,4414,301,Yes,No
+Restaurant Hub 972,Kolkata,Park Street,Bakery,Continental,3.1,3255,110,No,No
+Cafe Garden 973,Chennai,Adyar,Bakery,Italian,3.5,422,317,No,Yes
+Green Point 974,Bangalore,Indiranagar,Quick Bites,Continental,4.9,2608,352,Yes,No
+Urban Place 975,Bangalore,Indiranagar,Fine Dining,Italian,3.1,3859,1421,Yes,Yes
+Restaurant Corner 976,Mumbai,Colaba,Casual Dining,Mughlai,4.0,1106,782,Yes,No
+Silver Garden 977,Delhi,Lajpat Nagar,Casual Dining,Italian,2.7,4426,991,Yes,No
+Royal Bites 978,Bangalore,BTM Layout,Casual Dining,Continental,4.1,3433,406,Yes,No
+Green Point 979,Delhi,Lajpat Nagar,Fine Dining,Seafood,3.3,2266,2495,Yes,No
+Urban Hub 980,Delhi,Karol Bagh,Quick Bites,Italian,3.9,4174,326,Yes,No
+Green Hub 981,Mumbai,Powai,Fine Dining,Mughlai,3.1,3639,2217,Yes,No
+Golden Garden 982,Chennai,Nungambakkam,Casual Dining,Mughlai,3.8,513,415,Yes,No
+Cafe Corner 983,Bangalore,Indiranagar,Food Court,North Indian,3.2,2384,161,Yes,No
+Hotel Corner 984,Bangalore,HSR Layout,Cafe,Italian,3.3,3169,490,Yes,No
+Golden Place 985,Chennai,Nungambakkam,Bar,Street Food,3.9,692,820,Yes,Yes
+Silver Bites 986,Delhi,Karol Bagh,Fine Dining,Cafe,3.5,4757,2913,Yes,No
+Royal Garden 987,Hyderabad,Jubilee Hills,Quick Bites,Fast Food,3.9,1297,327,Yes,No
+Golden Hub 988,Delhi,Dwarka,Quick Bites,South Indian,3.6,3910,372,Yes,No
+Spice Lounge 989,Mumbai,Juhu,Sweet Shop,Mughlai,3.7,3080,81,No,No
+Golden Point 990,Chennai,T Nagar,Cafe,Chinese,3.9,3214,496,Yes,No
+Urban Point 991,Chennai,Adyar,Dhaba,Fast Food,,329,233,No,Yes
+Royal Grill 992,Hyderabad,Hitech City,Bakery,Desserts,3.2,1998,382,Yes,Yes
+Urban Point 993,Mumbai,Juhu,Casual Dining,Biryani,3.4,3981,803,Yes,Yes
+Green Kitchen 994,Delhi,Hauz Khas,Dhaba,Italian,4.3,4817,252,Yes,No
+Urban Grill 995,Mumbai,Powai,Sweet Shop,Continental,3.8,2775,115,Yes,No
+Cafe Bites 996,Bangalore,Koramangala,Casual Dining,South Indian,3.3,4377,1048,No,No
+Green Hub 997,Kolkata,Howrah,Cafe,Chinese,3.9,2588,291,Yes,No
+Hotel Grill 998,Bangalore,Indiranagar,Sweet Shop,Fast Food,3.9,3562,230,Yes,Yes
+Royal Place 999,Kolkata,Park Street,Casual Dining,Italian,4.0,3592,658,Yes,No
+The Garden 1000,Delhi,Connaught Place,Cafe,North Indian,3.2,156,667,Yes,No
